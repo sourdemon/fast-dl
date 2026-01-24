@@ -1,0 +1,374 @@
+// Voice: Pierre Tessier
+/Affirmative01.vcd	Yes.
+/Affirmative02.vcd	Affirmative.
+/Affirmative03.vcd	Roger that!
+/Affirmative06.vcd	Roger that.
+/Agree01.vcd	Alright.
+/Agree02.vcd	Okay!
+/Agree04.vcd	Sounds good!
+/Blinded01.vcd	I'm blind!
+/Blinded02.vcd	Can't see.
+/Blinded03.vcd	Can't see!
+/Blinded04.vcd	Blinded!
+/BombsiteClear01.vcd	Bombsite secure.
+/BombsiteClear02.vcd	Bombsite secure!
+/BombsiteClear03.vcd	Bombsite secure.
+/BombsiteClear04.vcd	Bombsite under control.
+/BombTickingDown01.vcd	That bomb's ticking down!
+/BombTickingDown02.vcd	That bomb's ticking down.
+/BombTickingDown04.vcd	Let's take care of that bomb.
+/ClearedArea01.vcd	Clear.
+/ClearedArea02.vcd	We're clear.
+/ClearedArea03.vcd	Area secure.
+/ClearedArea04.vcd	All clear.
+/ClearedArea02.vcd	All clear!
+/ClearedArea03.vcd	Area secure!
+/ClearedArea04.vcd	We're clear!
+/CommanderDown01.vcd	Commander down!
+/CommanderDown02.vcd	Commander down! Commander down!
+/CommanderDown03.vcd	We lost the commander!
+/CoveringFriend01.vcd	I've got your back.
+/CoveringFriend02.vcd	I've got you.
+/CoveringFriend03.vcd	Covering.
+/CoveringFriend04.vcd	Covering!
+/CoverMe01.vcd	Cover me.
+/CoverMe03.vcd	Cover!
+/CoverMe05.vcd	Hold up, cover me!
+/ct_bombexploding01.vcd	Oh crap...
+/ct_bombexploding02.vcd	Get back! Get BACK!
+/ct_bombexploding03.vcd	Get back! Get BACK!
+/ct_bombexploding04.vcd	Run!
+/ct_bombexploding05.vcd	Ahhh piss.
+/ct_bombexploding06.vcd	CLEAR THE AREA!
+/ct_bombexploding07.vcd	Oh no...
+/ct_bombexploding08.vcd	Oh, ce pas vrai. (Oh, this not true.)
+/ct_death01.vcd	Ahhhh!
+/ct_death02.vcd	Ohhhmmmph
+/ct_death03.vcd	(exhale)
+/ct_death04.vcd	Ohhhh
+/ct_death05.vcd	(exhale)
+/ct_death06.vcd	Ahhhh!
+/ct_death07.vcd	(exhale)
+/ct_death08.vcd	Ahhhh!
+/ct_decoy01.vcd	Decoy!
+/ct_decoy02.vcd	Decoy's out.
+/ct_decoy03.vcd	Deploying decoy.
+/ct_flashbang01.vcd	Flashbang!
+/ct_flashbang02.vcd	Deploying Flashbang.
+/ct_flashbang03.vcd	Throwing Flashbang.
+/ct_grenade01.vcd	Fire in the hole!
+/ct_grenade02.vcd	Grenade out.
+/ct_grenade04.vcd	Throwing a grenade.
+/ct_grenade05.vcd	Grenade out!
+/ct_molotov01.vcd	Throwing fire.
+/ct_molotov02.vcd	Incendiary out.
+/ct_molotov03.vcd	Incendiary!
+/ct_smoke01.vcd	Smoke!
+/ct_smoke02.vcd	Throwing smoke.
+/ct_smoke03.vcd	Laying down smoke.
+/ctmap_cs_italy01.vcd	In the Apartment.
+/ctmap_cs_italy02.vcd	Checking the Apartment.
+/ctmap_cs_italy03.vcd	Apartment.
+/ctmap_cs_italy04.vcd	Balcony.
+/ctmap_cs_italy05.vcd	At the Balcony.
+/ctmap_cs_italy06.vcd	Downstairs.
+/ctmap_cs_italy07.vcd	I'm Downstairs.
+/ctmap_cs_italy08.vcd	Checking Downstairs.
+/ctmap_cs_italy09.vcd	At their Entry Point.
+/ctmap_cs_italy10.vcd	Checking their Entry Point.
+/ctmap_cs_italy11.vcd	I'm at their Entry Point.
+/ctmap_cs_italy12.vcd	Far Side.
+/ctmap_cs_italy13.vcd	I'm at the Far Side.
+/ctmap_cs_italy14.vcd	Checking the Far Side.
+/ctmap_cs_italy15.vcd	Front Door.
+/ctmap_cs_italy16.vcd	At the Front Door.
+/ctmap_cs_italy17.vcd	The Front Door.
+/ctmap_cs_italy21.vcd	Insertion Point.
+/ctmap_cs_italy22.vcd	Left Alley.
+/ctmap_cs_italy23.vcd	Back at the Insertion Point.
+/ctmap_cs_italy24.vcd	I'm at our Insertion Point.
+/ctmap_cs_italy25.vcd	I'm at our Insertion Point.
+/ctmap_cs_italy26.vcd	At the Left Alley.
+/ctmap_cs_italy27.vcd	Long Hall.
+/ctmap_cs_italy28.vcd	In the Long Hall.
+/ctmap_cs_italy29.vcd	Checking the Long Hall.
+/ctmap_cs_italy30.vcd	Market.
+/ctmap_cs_italy31.vcd	I'm at the Market.
+/ctmap_cs_italy32.vcd	At the Market.
+/ctmap_cs_italy33.vcd	Middle.
+/ctmap_cs_italy34.vcd	At the Middle.
+/ctmap_cs_italy35.vcd	In the Middle.
+/ctmap_cs_italy36.vcd	Right Alley.
+/ctmap_cs_italy37.vcd	Taking the Right Alley.
+/ctmap_cs_italy38.vcd	The Right Alley.
+/ctmap_cs_italy39.vcd	Stairs.
+/ctmap_cs_italy40.vcd	On the Stairs.
+/ctmap_cs_italy41.vcd	At the Stairs.
+/ctmap_cs_italy42.vcd	Tunnel.
+/ctmap_cs_italy43.vcd	Taking the Tunnel.
+/ctmap_cs_italy44.vcd	In the Tunnel.
+/ctmap_cs_italy45.vcd	Upstairs.
+/ctmap_cs_italy46.vcd	I'm upstairs.
+/ctmap_cs_italy47.vcd	Checking Upstairs.
+/ctmap_cs_italy48.vcd	Window.
+/ctmap_cs_italy49.vcd	At the Window.
+/ctmap_cs_italy50.vcd	By the Window.
+/ctmap_cs_italy51.vcd	Wine Cellar.
+/ctmap_cs_italy52.vcd	In the Wine Cellar.
+/ctmap_cs_italy53.vcd	Down in the Wine Cellar.
+/DefusingBomb01.vcd	Defusing the bomb.
+/DefusingBomb02.vcd	Defusing!
+/DefusingBomb03.vcd	Defusing.
+/DefusingBomb06.vcd	I'm defusing the bomb.
+/Disagree01.vcd	No!
+/Disagree02.vcd	No.
+/Disagree03.vcd	That's a negative.
+/Disagree05.vcd	Uh.. No.
+/Disagree06.vcd	No.
+/Disagree07.vcd	That's a negative.
+/Disagree10.vcd	That's not going to happen.
+/EnemyDown01.vcd	Got him!
+/EnemyDown02.vcd	Got one!
+/EnemyDown03.vcd	He's down!
+/EnemyDown04.vcd	He's down.
+/EnemyDown05.vcd	Dropped him!
+/EnemyDown06.vcd	Got 'em!
+/EnemyDown07.vcd	Got one!
+/EnemyDown08.vcd	He's down.
+/EnemyDown09.vcd	Je l'ai! (I got it!)
+/EnemyDownPirate01.vcd	Pirate down!
+/EnemyDownPirate02.vcd	Got me a Pirate!
+/EnemyDownPirate03.vcd	One less Pirate!
+/EnemyDownPirate04.vcd	Take that matey!
+/EnemyDownPirate05.vcd	Prends ça matelot! (Take that sailor!)
+/FollowingFriend01.vcd	Lead.
+/FollowingFriend02.vcd	Lead the way.
+/FollowingFriend04.vcd	I'm with you.
+/FollowingFriend05.vcd	Go ahead and lead.
+/FollowingFriend07.vcd	I'm with you!
+/FriendlyFire01.vcd	That better have been a mistake!
+/FriendlyFire02.vcd	Secure that weapon.
+/FriendlyFire03.vcd	Watch the friendly fire.
+/FriendlyFire04.vcd	Hold your fire! Hold your fire!
+/GoingToGuardLooseBomb01.vcd	Heading to the dropped bomb.
+/GoingToGuardLooseBomb02.vcd	Going to cover the dropped bomb.
+/GoingToGuardLooseBomb03.vcd	Heading to the bomb.
+/GoingToGuardLooseBomb04.vcd	Going to cover the dropped bomb.
+/GuardingLooseBomb01.vcd	Guarding the dropped bomb.
+/GuardingLooseBomb02.vcd	I'm staying with bomb.
+/GuardingLooseBomb03.vcd	Covering the bomb.
+/HeardNoise01.vcd	I think I heard something.
+/HeardNoise02.vcd	Did you hear that?
+/HeardNoise03.vcd	Anyone else hear that?
+/help01.vcd	I need help!
+/help02.vcd	Could use some help!
+/help03.vcd	Need help!
+/HostageDown01.vcd	Hostage down! Hostage down!
+/HostageDown02.vcd	Hostage down! Hostage down!
+/HostageDown03.vcd	We are losing hostages!
+/HostageDown04.vcd	We are losing hostages!
+/InCombat01.vcd	Attacking!
+/InCombat02.vcd	Engaging the bad guys.
+/InCombat03.vcd	Opening up.
+/InCombat04.vcd	Die, Pirates, die.
+/InCombat05.vcd	I hate Pirates.
+/InCombat06.vcd	I hate Pirates!
+/InPosition01.vcd	I'm in position.
+/InPosition02.vcd	I'm ready!
+/InPosition04.vcd	In position.
+/KilledFriend01.vcd	Ça va pas! (It's not okay!)
+/KilledFriend02.vcd	What the hell is going on?
+/KilledFriend03.vcd	What are you guys doing?
+/KilledFriend04.vcd	He was one of ours!
+/LastManStanding01.vcd	That's right, that's right!
+/LastManStanding02.vcd	Guys, I did that for you.
+/LastManStanding03.vcd	No one's getting me!
+/LastManStanding04.vcd	Wow!
+/LastManStanding05.vcd	Whoa!
+/LastManStanding08.vcd	Is that all you got!?
+/LastManStanding10.vcd	Et alors? C'est tout? (So? That's it?)
+/LostEnemy01.vcd	Lost 'em.
+/LostEnemy02.vcd	They got away.
+/LostEnemy04.vcd	I lost 'em.
+/MeToo01.vcd	Thanks.
+/Negative01.vcd	Negative.
+/Negative02.vcd	Negative!
+/Negative03.vcd	No.
+/Negative04.vcd	Ah.. No.
+/Negative05.vcd	That's a negative.
+/NiceShot01.vcd	Good one!
+/NiceShot02.vcd	Way to go!
+/NiceShot03.vcd	Nice shot!
+/NiceShot04.vcd	Good kill!
+/NiceShot05.vcd	That's how you do it!
+/NoEnemiesLeft01.vcd	We got 'em all!
+/NoEnemiesLeft02.vcd	None left!
+/NoEnemiesLeft03.vcd	Nice job, they're all dead.
+/NoEnemiesLeft04.vcd	Nice job, they're all dead.
+/NoEnemiesLeft05.vcd	Nice job, they're all dead!
+/NoEnemiesLeft06.vcd	They're all dead!
+/NoEnemiesLeftBomb01.vcd	We got 'em all, let's defuse that bomb!
+/NoEnemiesLeftBomb02.vcd	We got 'em, but that bomb's ticking!
+/NoEnemiesLeftBomb03.vcd	We still got a bomb to defuse.
+/NoEnemiesLeftBomb04.vcd	Good job! But we still got a bomb to defuse.
+/NoEnemiesLeftPirates01.vcd	That was the last of the Pirates.
+/NoEnemiesLeftPirates02.vcd	All the pirates are dead!
+/NoEnemiesLeftPirates03.vcd	Yo ho ho! The Pirates are dead!
+/OnARollBrag01.vcd	Woohoo!
+/OnARollBrag02.vcd	Oh yeah!
+/OnARollBrag03.vcd	All right!
+/OnARollBrag04.vcd	That's the way we do it!
+/OnARollBrag05.vcd	Nice.
+/OnARollBrag06.vcd	Nice!
+/OnARollBrag07.vcd	There ya go!
+/OnARollBrag08.vcd	We are doing this!
+/OnARollBrag09.vcd	C'est qui le taulier? (Who is the boss?)
+/OneEnemyLeft01.vcd	1 guy left.
+/OneEnemyLeft02.vcd	Only one guy left.
+/OneEnemyLeft03.vcd	We have one lone bad guy.
+/OneEnemyLeft04.vcd	Only one left!
+/OneEnemyLeft05.vcd	That makes one left.
+/OneEnemyLeft06.vcd	Encore un. (Another one.)
+/OneEnemyLeft07.vcd	Plus qu'à. (More than that.)
+/OneEnemyLeftPirate01.vcd	Just one pirate left.
+/OneEnemyLeftPirate02.vcd	Let's get that last pirate!
+/OneEnemyLeftPirate03.vcd	Still one pirate around!
+/OnMyWay01.vcd	On my way!
+/OnMyWay02.vcd	Coming!
+/OnMyWay03.vcd	Heading over!
+/PepTalk01.vcd	We can do this!
+/PepTalk03.vcd	Let's get our heads in the game!
+/PinnedDown01.vcd	I'm pinned down!
+/PinnedDown02.vcd	I'm pinned!
+/PinnedDown03.vcd	Help, I'm pinned!
+/PlantedBombPlaceSafe01.vcd	They planted the bomb at the safe.
+/PlantedBombPlaceSafe02.vcd	The bomb is at the safe.
+/PlantedBombPlaceSafe03.vcd	They are going to blow the safe.
+/Radio.EnemySpotted01.vcd	Target spotted!
+/Radio.EnemySpotted02.vcd	Targets acquired!
+/Radio.EnemySpotted03.vcd	Target spotted!
+/Radio.EnemySpotted04.vcd	I have eyes on the enemy.
+/Radio.EnemySpottedPirates01.vcd	I can see the Pirates!
+/Radio.EnemySpottedPirates02.vcd	Pirates in view!
+/Radio.EnemySpottedPirates03.vcd	I can see our Pirates!
+/Radio.EnemySpottedPirates04.vcd	I found the Pirates.
+/Radio.EnemySpottedPirates05.vcd	I found the stinkin' Pirates.
+/Radio.FollowMe01.vcd	Follow me.
+/Radio.FollowMe02.vcd	Stack up on me.
+/Radio.FollowMe04.vcd	I'll take point.
+/Radio.FollowMe06.vcd	Suivez moi! (Follow me!)
+/radio.letsgo01.vcd	Go go go!
+/radio.letsgo02.vcd	Go, go, go!
+/radio.letsgo03.vcd	Let's go!
+/radio.letsgo04.vcd	Let's go!
+/radio.letsgo05.vcd	Move it! MOVE IT!
+/radio.letsgo06.vcd	MOVE IT! MOVE IT!
+/radio.letsgo07.vcd	LET'S GO! LET'S GO!
+/radio.letsgo08.vcd	Let's go! Let's go!
+/radio.letsgo09.vcd	Let's go, people!
+/radio.letsgo10.vcd	Let's go, people!
+/radio.letsgo11.vcd	Allons-y! (Let's go!)
+/radio.letsgo12.vcd	Go go go!
+/radio.letsgo13.vcd	Let's go.
+/radio.letsgo14.vcd	Move it. Move it.
+/radio.letsgo15.vcd	Let's go! Let's go!
+/radio.letsgo16.vcd	Let's go, people.
+/radio.letsgo17.vcd	Let's go, people.
+/radio.letsgo18.vcd	Allez, allez! (Come on, come on!)
+/radio.letsgo19.vcd	Allons-y. (Let's go.)
+/radio.locknload01.vcd	Let's go.
+/radio.locknload02.vcd	Lock and load.
+/radio.locknload03.vcd	Let's go.
+/radio.locknload04.vcd	Grab your gear and let's go.
+/radio.locknload05.vcd	Lock and load.
+/radio.locknload06.vcd	Let's get this done.
+/radio.locknload07.vcd	Let's move out.
+/Radio.NeedBackup01.vcd	Need support.
+/Radio.NeedBackup02.vcd	Need backup.
+/Radio.NeedBackup03.vcd	Need backup now!
+/Radio.NeedBackup04.vcd	J'ai besoin d'aide! (I need help!)
+/Radio.NeedBackup05.vcd	J'ai besoin de renforts! (I need reinforcements!)
+/Radio.TakingFire01.vcd	I'm under fire.
+/Radio.TakingFire02.vcd	Contact! Contact!
+/Radio.TakingFire03.vcd	I'm in trouble.
+/Radio.TakingFire04.vcd	I'm in big trouble!
+/Radio.TakingFire05.vcd	Need assistance.
+/Radio.TakingFire06.vcd	Officer under fire!
+/RadioBotEndClean01.vcd	Good job, we're all going home tonight.
+/RadioBotEndClean02.vcd	Good job everyone!
+/RadioBotEndClean03.vcd	Nice work everyone!
+/RadioBotEndClose01.vcd	That was close!
+/RadioBotEndClose02.vcd	We barely stopped them.
+/RadioBotEndClose04.vcd	That was a little too close.
+/RadioBotEndClose05.vcd	C'est pas passé loin! (It was a close call!)
+/RadioBotEndSolid01.vcd	Good job, men!
+/RadioBotEndSolid02.vcd	Nice work!
+/RadioBotEndSolid03.vcd	We did it!
+/RadioBotFallBack01.vcd	Fall back!
+/RadioBotFallBack03.vcd	Team, fall back!
+/RadioBotFallBack04.vcd	Back! Back!
+/RadioBotFallBack07.vcd	Back!
+/RadioBotHold01.vcd	Hold this position.
+/RadioBotHold02.vcd	Stay here.
+/RadioBotHold03.vcd	Cover this area.
+/RadioBotHostagesEscort01.vcd	Escorting the hostages.
+/RadioBotHostagesEscort02.vcd	I'm bringing the hostages out.
+/RadioBotHostagesEscort03.vcd	Hostages coming out.
+/RadioBotHostagesEscort04.vcd	I have the hostages.
+/RadioBotHostagesEscort05.vcd	I'm bringing out the hostages.
+/RadioBotHostagesThere01.vcd	I'm at the hostages.
+/RadioBotHostagesThere02.vcd	I've arrived at the hostages.
+/RadioBotHostagesThere03.vcd	I'm with the hostages.
+/RadioBotRegroup01.vcd	Regroup.
+/RadioBotRegroup02.vcd	Stick together.
+/RadioBotRegroup03.vcd	Form up!
+/RadioBotRegroup04.vcd	Pull yourselves together.
+/RadioBotTime01.vcd	Hurry up!
+/RadioBotTime02.vcd	Time is running out!
+/RadioBotTime03.vcd	We don't have much time!
+/ReportingIn01.vcd	Reporting In.
+/ReportingIn02.vcd	Checking In.
+/RequestReport01.vcd	Report In.
+/RequestReport02.vcd	Status?
+/RequestReport03.vcd	Check in.
+/ScaredEmote01.vcd	Oh man, oh man.
+/ScaredEmote02.vcd	I did not sign up for this.
+/ScaredEmote03.vcd	This is going south.
+/ScaredEmote04.vcd	This is not going well.
+/SniperKilled01.vcd	Got the sniper.
+/SniperKilled02.vcd	Got the sniper.
+/SniperKilled03.vcd	Sniper down.
+/SniperWarning01.vcd	Sniper!
+/SniperWarning02.vcd	Sniper! Sniper!
+/SniperWarning03.vcd	Watch out, sniper!
+/SpottedBomber01.vcd	He's got the bomb.
+/SpottedBomber02.vcd	Spotted the bomb carrier.
+/SpottedBomber03.vcd	I see the bomb carrier.
+/SpottedBomber04.vcd	Bomb carrier spotted.
+/SpottedBomber05.vcd	Bomb carrier down range.
+/SpottedLooseBomb01.vcd	The bomb has been dropped. Repeat. The bomb has been dropped.
+/SpottedLooseBomb02.vcd	The bomb has been dropped.
+/SpottedLooseBomb03.vcd	They dropped the bomb.
+/SpottedLooseBomb04.vcd	The bomb is down.
+/SpottedLooseBomb05.vcd	The bomb is on the ground.
+/TheyPickedUpTheBomb01.vcd	They've got the bomb.
+/TheyPickedUpTheBomb02.vcd	They picked up the bomb.
+/TheyPickedUpTheBomb03.vcd	They've recovered the bomb.
+/ThreeEnemiesLeft01.vcd	3 guys left.
+/ThreeEnemiesLeft02.vcd	That makes three.
+/ThreeEnemiesLeft04.vcd	3 to go.
+/ThreeEnemiesLeft05.vcd	3 guys left.
+/ThreeEnemiesLeft06.vcd	That makes three left.
+/TwoEnemiesLeft01.vcd	2 guys left.
+/TwoEnemiesLeft02.vcd	They're down to two.
+/TwoEnemiesLeft03.vcd	2 bad guys left.
+/TwoEnemiesLeft04.vcd	2 guys left.
+/TwoEnemiesLeft05.vcd	That makes 2 left.
+/WaitingForHumanToDefuseBomb01.vcd	Covering while you defuse.
+/WaitingForHumanToDefuseBomb02.vcd	Defuse the bomb and I'll cover you.
+/WaitingForHumanToDefuseBomb03.vcd	Go ahead and defuse the bomb.
+/WaitingHere01.vcd	I'm waiting here.
+/WaitingHere02.vcd	Waiting here.
+/WaitingHere03.vcd	Staying here.
+/WhereIsTheBomb02.vcd	Did you see the bomb?
+/WhereIsTheBomb03.vcd	Anyone seen the bomb?

@@ -1,0 +1,520 @@
+/afm1_affirmation_01.vcd	Yes.
+/afm1_affirmation_02.vcd	Yup.
+/afm1_affirmation_03.vcd	Yeah.
+/afm1_affirmation_04.vcd	Yep.
+/afm1_affirmation_05.vcd	Yees.
+/afm1_affirmation_06.vcd	Yeaah.
+/afm1_affirmation_07.vcd	Yes.
+/afm1_agree_01.vcd	Sure thing.
+/afm1_agree_02.vcd	Sounds good.
+/afm1_agree_03.vcd	Absolutely.
+/afm1_agree_04.vcd	Definitely.
+/afm1_agree_05.vcd	Got it.
+/afm1_agree_06.vcd	Good idea.
+/afm1_at_enemy_spawn_01.vcd	I'm at that Insertion Point.
+/afm1_at_enemy_spawn_02.vcd	At their Insertion.
+/afm1_at_enemy_spawn_03.vcd	Checking their Insertion Point.
+/afm1_at_our_spawn_01.vcd	I'm checking our Entry.
+/afm1_at_our_spawn_02.vcd	At the Entry Point.
+/afm1_at_our_spawn_03.vcd	I'm at our Entry Point.
+/afm1_attacking_01.vcd	Attacking!
+/afm1_attacking_02.vcd	Engaging!
+/afm1_attacking_03.vcd	Shooting!
+/afm1_attacking_04.vcd	I'm attacking!
+/afm1_attacking_05.vcd	Ho, ho, it's on.
+/afm1_blinded_01.vcd	I'm blind!
+/afm1_blinded_02.vcd	Can't see!
+/afm1_blinded_03.vcd	Blinded!
+/afm1_blinded_04.vcd	Ah! Flash!
+/afm1_blinded_05.vcd	Flash!
+/afm1_bomb_planted_01.vcd	The bomb is planted!
+/afm1_bomb_planted_02.vcd	Bomb's planted!
+/afm1_bomb_planted_03.vcd	Bomb's armed!
+/afm1_bomb_pre_explosion_01.vcd	It's gonna blow!
+/afm1_bomb_pre_explosion_02.vcd	Get back!
+/afm1_bomb_pre_explosion_03.vcd	yes, YES!
+/afm1_bombsite_clear_01.vcd	Nobody's at the Bombsite.
+/afm1_bombsite_clear_02.vcd	The Bombsite is clear.
+/afm1_bombsite_clear_03.vcd	Bombsite's clear.
+/afm1_cheer_01.vcd	Hahaha.. Yes!
+/afm1_cheer_02.vcd	Ha, amazing.
+/afm1_cheer_03.vcd	Yeeeah.
+/afm1_cheer_04.vcd	All right!
+/afm1_cheer_05.vcd	Yeah, that's how you do it.
+/afm1_cheer_06.vcd	Hell yes!
+/afm1_compliment_01.vcd	Nice one.
+/afm1_compliment_02.vcd	Nice work.
+/afm1_compliment_03.vcd	Heh, good work.
+/afm1_compliment_04.vcd	Goood work!
+/afm1_compliment_05.vcd	Looking good!
+/afm1_compliment_06.vcd	Very nice!
+/afm1_compliment_07.vcd	Really nice work!
+/afm1_countdown_01.vcd	Three, two, one.
+/afm1_covering_friend_01.vcd	I've got your back.
+/afm1_covering_friend_02.vcd	I'll cover you.
+/afm1_covering_friend_04.vcd	Covering!
+/afm1_covering_friend_05.vcd	I got you covered.
+/afm1_death_01.vcd	Ahhhh...!
+/afm1_death_02.vcd	Ohhhmmmph.
+/afm1_death_03.vcd	(exhale)
+/afm1_death_04.vcd	Uhhhh...!
+/afm1_disagree_01.vcd	I don't think so.
+/afm1_disagree_02.vcd	Absolutely not.
+/afm1_disagree_03.vcd	Not a chance.
+/afm1_disagree_04.vcd	Hell no.
+/afm1_disagree_05.vcd	Bad idea.
+/afm1_disagree_06.vcd	Heeell no.
+/afm1_enemies_left_none_01.vcd	That's it. They're all dead.
+/afm1_enemies_left_none_02.vcd	They're all dead.
+/afm1_enemies_left_none_03.vcd	Okay. They're all dead.
+/afm1_enemies_left_none_04.vcd	We got them all.
+/afm1_enemies_left_one_01.vcd	1 left.
+/afm1_enemies_left_one_02.vcd	1 to go!
+/afm1_enemies_left_one_03.vcd	We got one more out there.
+/afm1_enemies_left_one_04.vcd	Only one left.
+/afm1_enemies_left_one_05.vcd	1 more and we're done.
+/afm1_enemies_left_three_01.vcd	3 left.
+/afm1_enemies_left_three_02.vcd	Only three left.
+/afm1_enemies_left_three_03.vcd	3 to go!
+/afm1_enemies_left_two_01.vcd	2 left.
+/afm1_enemies_left_two_02.vcd	Down to two.
+/afm1_enemies_left_two_03.vcd	Just two dipshits and we're done.
+/afm1_following_friend_01.vcd	You lead.
+/afm1_following_friend_02.vcd	Lead the way.
+/afm1_following_friend_03.vcd	I'm with you.
+/afm1_following_friend_04.vcd	Right behind you.
+/afm1_friend_plant_bomb_01.vcd	I'll cover, you plant the Bomb.
+/afm1_friend_plant_bomb_02.vcd	I got your back, plant the Bomb.
+/afm1_friend_plant_bomb_03.vcd	Stop planting, I'll cover you.
+/afm1_friend_plant_bomb_04.vcd	You plant the Bomb, I'll cover you.
+/afm1_friend_plant_bomb_05.vcd	Plant it!
+/afm1_friend_plant_bomb_06.vcd	Come on! Plant it!
+/afm1_friend_plant_bomb_07.vcd	Plant the damn Bomb!
+/afm1_friend_plant_bomb_08.vcd	Plant the Bomb now!
+/afm1_guarding_bombsite_01.vcd	Covering this Bombsite.
+/afm1_guarding_bombsite_02.vcd	I'll cover this Bombsite.
+/afm1_guarding_bombsite_01.vcd	Guarding the Bombsite.
+/afm1_guarding_bombsite_01.vcd	I got this Bombsite covered.
+/afm1_guarding_bombsite_01.vcd	I'll wait with the Bomb.
+/afm1_guarding_bombsite_a_01.vcd	Covering Bombsite A.
+/afm1_guarding_bombsite_a_02.vcd	I'll wait the A.
+/afm1_guarding_bombsite_a_03.vcd	Guarding A!
+/afm1_guarding_bombsite_b_01.vcd	I'm watching Bombsite B.
+/afm1_guarding_bombsite_b_02.vcd	Covering Bombsite B.
+/afm1_guarding_bombsite_b_03.vcd	Staying at Bombisite B.
+/afm1_guarding_bombsite_b_04.vcd	Guarding B!
+/afm1_guarding_escapezone_01.vcd	I'm guarding the Escape Zone.
+/afm1_guarding_escapezone_02.vcd	I'm blocking the Escape Zone.
+/afm1_guarding_escapezone_03.vcd	I'm at the Escape Zone.
+/afm1_guarding_escapezone_04.vcd	I'm covering the Escape Zone.
+/afm1_guarding_hostage_01.vcd	I'm with the Hostages!
+/afm1_guarding_hostage_02.vcd	I'm covering the Hostages.
+/afm1_guarding_hostage_03.vcd	I'm watching the Hostages.
+/afm1_guarding_live_bomb_01.vcd	I'll protect the Bomb.
+/afm1_guarding_live_bomb_02.vcd	I'm staying with the Bomb.
+/afm1_guarding_live_bomb_03.vcd	Covering the Bomb.
+/afm1_guarding_live_bomb_04.vcd	I'll stay with the Bomb.
+/afm1_heard_sound_01.vcd	Did you hear that?
+/afm1_heard_sound_02.vcd	I heard somethin'.
+/afm1_heard_sound_03.vcd	Anyone else heard that?
+/afm1_i_killed_enemy_01.vcd	Got 'em!
+/afm1_i_killed_enemy_02.vcd	Got one.
+/afm1_i_killed_enemy_03.vcd	1 down.
+/afm1_i_killed_enemy_04.vcd	Haha, got 'em.
+/afm1_i_killed_enemy_05.vcd	Bam!
+/afm1_i_killed_enemy_06.vcd	That's a hit!
+/afm1_i_killed_enemy_07.vcd	Target down!
+/afm1_i_killed_enemy_08.vcd	Boom! Dead.
+/afm1_i_killed_enemy_09.vcd	Take that, dipshit.
+/afm1_i_killed_enemy_10.vcd	Took one out.
+/afm1_i_killed_sniper_01.vcd	Sniper down!
+/afm1_i_killed_sniper_02.vcd	Got the Sniper!
+/afm1_i_killed_sniper_03.vcd	Sniper's dead!
+/afm1_i_killed_sniper_04.vcd	Got that Sniper!
+/afm1_i_plant_bomb_01.vcd	I'm going to plant.
+/afm1_i_plant_bomb_02.vcd	I'm going to plant a Bomb.
+/afm1_i_plant_bomb_03.vcd	I'll plant a Bomb.
+/afm1_in_position_01.vcd	I'm ready and in position.
+/afm1_in_position_02.vcd	I'm in position.
+/afm1_in_position_03.vcd	I'm here.
+/afm1_in_position_05.vcd	In position and covering.
+/afm1_in_position_06.vcd	Here.
+/afm1_in_position_07.vcd	Waiting in position.
+/afm1_last_unit_alive_01.vcd	I got this, no problem.
+/afm1_last_unit_alive_02.mp3	Hahahaha.
+/afm1_last_unit_alive_02.vcd	Hahahaha, all according to plan.
+/afm1_last_unit_alive_03.vcd	Come get me, dipshits.
+/afm1_last_unit_alive_04.vcd	Now you're trapped in here with me.
+/afm1_last_unit_alive_05.vcd	Just what I wanted.
+/afm1_last_unit_alive_06.mp3	All right.
+/afm1_last_unit_alive_06.vcd	All right, well, terrific.
+/afm1_last_unit_alive_07.vcd	Come.. and.. get.. me.
+/afm1_loc_a_01.vcd	Bombsite Alpha!
+/afm1_loc_a_02.vcd	Bombsite A!
+/afm1_loc_a_03.vcd	A' Bombsite!
+/afm1_loc_a_04.vcd	A' Bomb!
+/afm1_loc_a_05.vcd	A' Site!
+/afm1_loc_a_06.vcd	Site A!
+/afm1_loc_b_01.vcd	Bombsite Bravo!
+/afm1_loc_b_02.vcd	Bombsite B!
+/afm1_loc_b_03.vcd	B Bomb!
+/afm1_loc_b_04.vcd	B Site!
+/afm1_loc_b_05.vcd	Site B!
+/afm1_loc_back.vcd	Back Entrance.
+/afm1_loc_bridge.vcd	Bridge.
+/afm1_loc_catwalk.vcd	Catwalk.
+/afm1_loc_connector.vcd	Connector.
+/afm1_loc_door.vcd	Door.
+/afm1_loc_doubledoors.vcd	Double Doors.
+/afm1_loc_enemy_spawn.vcd	Their Entry Point.
+/afm1_loc_front.vcd	Front Entrance.
+/afm1_loc_hole.vcd	Hole.
+/afm1_loc_hostage_01.vcd	Hostage.
+/afm1_loc_hostage_02.vcd	Hostages.
+/afm1_loc_hostage_03.vcd	Check Hostage.
+/afm1_loc_hostage_escape_zone_01.vcd	Escape Zone.
+/afm1_loc_hostage_escape_zone_02.vcd	The Escape Zone.
+/afm1_loc_hostage_escape_zone_03.vcd	Hostage Escape Zone.
+/afm1_loc_hut.vcd	Hut.
+/afm1_loc_long.vcd	Long.
+/afm1_loc_mid_01.vcd	Mid.
+/afm1_loc_mid_02.vcd	Middle.
+/afm1_loc_mid_03.vcd	It's Mid.
+/afm1_loc_mid_04.vcd	In the Middle.
+/afm1_loc_our_spawn_01.vcd	Our Insertion Point.
+/afm1_loc_overpass.vcd	Overpass.
+/afm1_loc_palace.vcd	Palace.
+/afm1_loc_platform.vcd	Platform.
+/afm1_loc_ramp.vcd	Ramp.
+/afm1_loc_snipers_nest.vcd	Sniper's Nest.
+/afm1_loc_stairs.vcd	Stairs.
+/afm1_loc_truck.vcd	Truck.
+/afm1_loc_yard.vcd	Yard.
+/afm1_lost_sight_enemy_01.vcd	Lost sight of them.
+/afm1_lost_sight_enemy_02.vcd	I don't see them anymore.
+/afm1_lost_sight_enemy_03.vcd	They're gone.
+/afm1_negative_01.vcd	No.
+/afm1_negative_02.vcd	Nope.
+/afm1_negative_03.vcd	Nah.
+/afm1_negative_04.vcd	Ah ah
+/afm1_negative_05.vcd	No.
+/afm1_negative_06.vcd	No way.
+/afm1_omw_01.vcd	On my way.
+/afm1_omw_02.vcd	I'm on my way.
+/afm1_omw_03.vcd	Moving.
+/afm1_omw_04.vcd	Be right there.
+/afm1_omw_05.vcd	Heading over.
+/afm1_omw_to_escapezone_01.vcd	I'm headed to the Escape Zone.
+/afm1_omw_to_escapezone_03.vcd	I'm on my way to the Escape Zone.
+/afm1_omw_to_escapezone_02.vcd	I will surprise them at the Escape Zone.
+/afm1_omw_to_hostage_01.vcd	I'm headed to the Hostages.
+/afm1_omw_to_hostage_02.vcd	On my way to the Hostages.
+/afm1_omw_to_hostage_03.vcd	Gonna go cover the Hostages.
+/afm1_omw_to_hostage_04.vcd	I'm going to the Hostages.
+/afm1_omw_to_plant_a_01.mp3	I'm going to plant at A.
+/afm1_omw_to_plant_a_01.vcd	I'm going to plant at A.
+/afm1_omw_to_plant_a_02.mp3	Headed to A plant.
+/afm1_omw_to_plant_a_02.vcd	Headed to A plant.
+/afm1_omw_to_plant_a_03.mp3	Planting at A.
+/afm1_omw_to_plant_a_03.vcd	Planting at A.
+/afm1_omw_to_plant_b_01.mp3	I'm going to plant.
+/afm1_omw_to_plant_b_01.vcd	I'm going to plant at A. (?)
+/afm1_omw_to_plant_b_02.vcd	Headed to A plant. (?)
+/afm1_omw_to_plant_b_03.mp3	Planting.
+/afm1_omw_to_plant_b_03.vcd	Planting at A. (?)
+/afm1_pinned_01.vcd	I'm pinned down!
+/afm1_pinned_02.vcd	Pinned down!
+/afm1_pinned_03.vcd	Pinned down here!
+/afm1_pinned_04.vcd	Pinned down!
+/afm1_reporting_in_01.vcd	Ready.
+/afm1_reporting_in_02.vcd	I'm here.
+/afm1_reporting_in_03.vcd	10-4.
+/afm1_reporting_in_04.vcd	Yup!
+/afm1_request_backup_01.vcd	Need backup!
+/afm1_request_backup_02.vcd	I need backup!
+/afm1_request_backup_03.vcd	Help! Need some backup!
+/afm1_request_backup_04.vcd	Need backup!
+/afm1_request_coverme_01.vcd	Cover me!
+/afm1_request_coverme_02.vcd	Cover me!
+/afm1_request_coverme_03.vcd	Cover!
+/afm1_request_decoy_01.vcd	We need a Decoy.
+/afm1_request_decoy_02.vcd	Need a Decoy!
+/afm1_request_decoy_03.mp3	Can we get a Decoy here?
+/afm1_request_decoy_03.vcd	Can we get a Decoy here?
+/afm1_request_eco_01.vcd	Let's go Eco.
+/afm1_request_eco_02.vcd	What do you say, people? Eco?
+/afm1_request_eco_03.vcd	I say we go Eco.
+/afm1_request_fallback_01.vcd	Fall back! Fall back, get back!
+/afm1_request_fallback_02.vcd	Everyone, fall back!
+/afm1_request_fallback_03.vcd	Get back! Get back!
+/afm1_request_fallback_04.vcd	Back! Back! Back! Back!
+/afm1_request_fire_01.vcd	We need some Fire.
+/afm1_request_fire_02.vcd	Let's light this on Fire.
+/afm1_request_fire_03.vcd	Let's set a Fire here.
+/afm1_request_flash_01.vcd	Can we get a Flashbang?
+/afm1_request_flash_02.vcd	Someone got a Flash ready?
+/afm1_request_flash_03.vcd	Somebody Flashbang!
+/afm1_request_follow_me_01.vcd	Follow me.
+/afm1_request_follow_me_02.vcd	Let's go, follow me.
+/afm1_request_follow_me_03.vcd	C'mon, stay close to me.
+/afm1_request_follow_me_04.vcd	Stick with me.
+/afm1_request_follow_me_05.vcd	I'll take that littleness.
+/afm1_request_grenade_01.vcd	Somebody toss a Grenade.
+/afm1_request_grenade_02.vcd	Toss a Grenade!
+/afm1_request_grenade_03.vcd	Somebody throw a Grenade.
+/afm1_request_help_01.vcd	Little help here!
+/afm1_request_help_02.vcd	Need some help!
+/afm1_request_help_03.vcd	I need help!
+/afm1_request_help_04.vcd	Help!
+/afm1_request_help_05.vcd	Somebody! Help me!
+/afm1_request_help_06.vcd	Can I get some help!
+/afm1_request_hold_01.vcd	Hold this position.
+/afm1_request_hold_02.vcd	Cover this area.
+/afm1_request_hold_03.vcd	Stay here.
+/afm1_request_leader_01.vcd	Who's gonna lead?
+/afm1_request_leader_02.vcd	Who wants to be in charge?
+/afm1_request_leader_03.vcd	Who's in charge here?
+/afm1_request_move_01.vcd	Go go go!
+/afm1_request_move_02.vcd	C'mon, let's go!
+/afm1_request_move_03.vcd	Let's go!
+/afm1_request_move_04.vcd	Let's move!
+/afm1_request_move_05.vcd	Move! Come on.
+/afm1_request_move_06.vcd	Let's go, move!
+/afm1_request_move_07.vcd	Move it!
+/afm1_request_plan_01.vcd	Anybody got a plan?
+/afm1_request_plan_02.vcd	What's the plan?
+/afm1_request_plan_03.vcd	We need a plan.
+/afm1_request_plan_04.vcd	Ideas? Anybody?
+/afm1_request_quiet_01.vcd	Shh! Keep it down.
+/afm1_request_quiet_02.vcd	Quiet. Quiet.
+/afm1_request_quiet_03.vcd	Shh!
+/afm1_request_quiet_04.vcd	Everybody, shut up and listen.
+/afm1_request_quiet_05.vcd	Everyone be quiet.
+/afm1_request_quiet_06.vcd	Quiet.
+/afm1_request_quiet_07.vcd	All of you dipshit need to shut the hell up.
+/afm1_request_regroup_01.vcd	Regroup on me.
+/afm1_request_regroup_02.vcd	Everyone come to me.
+/afm1_request_regroup_03.mp3	We need to regroup, come to me.
+/afm1_request_regroup_03.vcd	We need to regroup, come to me.
+/afm1_request_report_01.vcd	Report in.
+/afm1_request_report_02.vcd	Status?
+/afm1_request_report_03.vcd	Everybody checking?
+/afm1_request_report_04.vcd	What's the situation?
+/afm1_request_report_05.mp3	Report in.
+/afm1_request_report_05.vcd	C'mon people, report in.
+/afm1_request_smoke_01.vcd	Let's put some Smoke here.
+/afm1_request_smoke_02.vcd	Can we get some Smoke here?
+/afm1_request_spend_01.vcd	Spend it if you got it.
+/afm1_request_spend_02.vcd	Time to spend some cash.
+/afm1_request_spend_03.vcd	Let's spend some money.
+/afm1_request_spreadout_01.mp3	Spread out.
+/afm1_request_spreadout_01.vcd	Let's.. Spread out.
+/afm1_request_spreadout_02.vcd	Let's spend up.
+/afm1_request_spreadout_03.vcd	Sprend out!
+/afm1_request_stick_together_01.mp3	Stick together.
+/afm1_request_stick_together_01.vcd	Let's.. Stick together.
+/afm1_request_stick_together_02.vcd	Stay tight.
+/afm1_request_stick_together_03.vcd	C'mon people, stick together.
+/afm1_request_weapon_01.vcd	Need a weapon.
+/afm1_request_weapon_02.vcd	Anyone got a weapon?
+/afm1_request_weapon_03.vcd	Need a gun here!
+/afm1_request_weapon_04.vcd	"Before we kick this off,
+I'm gonna need one of those gun things."
+/afm1_request_weapon_05.vcd	"Anyone you want me to shoot someone,
+I'm going to need a weapon."
+/afm1_round_losing_01.vcd	We can do this!
+/afm1_round_losing_02.vcd	Focus! We can still do this.
+/afm1_round_losing_03.vcd	It's not over. It's not over! Come on people, c'mon!
+/afm1_round_losing_04.vcd	Let's go, come on!
+/afm1_round_losing_05.vcd	Don't panic! We're still in it.
+/afm1_round_losing_06.vcd	It's not over yet.
+/afm1_round_losing_07.vcd	We can still win!
+/afm1_round_losing_08.vcd	Hold fast, people! We are still in it.
+/afm1_round_lost_01.vcd	Ahhhg... Embarrassing.
+/afm1_round_lost_02.vcd	Ahh, bullshit.
+/afm1_round_lost_03.vcd	We'll get them next time.
+/afm1_round_lost_04.vcd	Naaahh.
+/afm1_round_start_01.vcd	Get ready!
+/afm1_round_start_02.vcd	Let's do this!
+/afm1_round_start_03.vcd	Ahh, come on, let's go!
+/afm1_round_start_04.vcd	Aaauu!
+/afm1_round_start_05.vcd	Uuh! Uuh! Let's go!
+/afm1_round_start_06.vcd	Come on, tear 'em up boys!
+/afm1_round_start_07.vcd	Let's get this party started.
+/afm1_round_start_08.vcd	Come on! Come on!
+/afm1_round_start_09.vcd	Here we go!
+/afm1_round_start_10.vcd	Good day to die, people!
+/afm1_round_start_11.vcd	Everybody ready?
+/afm1_round_start_12.vcd	Yeeaahh!
+/afm1_round_start_hostages_01	"They're coming for the Hostages, right?
+Okay, so don't bloody let them get near the Hostages."
+/afm1_round_winning_01.vcd	Yeah! We got this one.
+/afm1_round_winning_02.vcd	Oh oh! Yeah!
+/afm1_round_winning_03.vcd	This isn't even fair.
+/afm1_round_winning_04.vcd	Plans working, people.
+/afm1_round_winning_05.vcd	Keep it up, keep it up.
+/afm1_round_winning_06.vcd	Hahaha! They got nothing!
+/afm1_round_winning_07.vcd	Hahaha! You're all dead!
+/afm1_round_winning_08.vcd	We're coming for you.. Hahaha, you can't win.
+/afm1_round_winning_09.vcd	Grrr! Run cowards!
+/afm1_round_winning_10.vcd	Ohohoh! Baby, we are good, we are good!
+/afm1_round_winning_11.vcd	Ohohoh! Yeah!
+/afm1_round_winning_12.vcd	Hahaha!
+/afm1_round_winning_13.vcd	No way we lose this one!
+/afm1_round_winning_14.vcd	Yeah!
+/afm1_round_winning_15.vcd	Go, go, we've got this one!
+/afm1_round_won_01.vcd	Good job, everyone.
+/afm1_round_won_02.vcd	Absolutely great.
+/afm1_round_won_03.vcd	We.. Are the best.
+/afm1_round_won_04.vcd	Nice work, people.
+/afm1_round_won_05.mp3	Really good work.
+/afm1_round_won_05.vcd	Yeah, really, really good work.
+/afm1_round_won_06.vcd	Nice one, everybody.
+/afm1_round_won_07.vcd	Simple, simple game.
+/afm1_round_won_nocasualities_01.vcd	Faaatality! Hahaha!
+/afm1_round_won_nocasualities_02.vcd	Ohh baby! Perfect!
+/afm1_round_won_nocasualities_03.vcd	Doesn't get much better than that.
+/afm1_round_won_nocasualities_04.vcd	Pff! That was too easy.
+/afm1_round_won_nocasualities_05.vcd	Legendary!
+/afm1_round_won_quickly_01.vcd	Wait, is it over already?
+/afm1_round_won_quickly_02.vcd	Well, that was fast.
+/afm1_round_won_quickly_03.vcd	Maan, that was over quick.
+/afm1_round_won_quickly_04.vcd	Hahaha! That was ridiculous.
+/afm1_scared_01.vcd	Shit!
+/afm1_scared_02.vcd	Oh boy.
+/afm1_scared_03.vcd	Keep! It! Together!
+/afm1_scared_04.vcd	Shit, shit, shit.
+/afm1_scared_05.vcd	Okay, god damn it. Keep it together.
+/afm1_scared_06.vcd	No problem, no problem, you got this.
+/afm1_scared_07.vcd	Keep. It. Together.
+/afm1_scared_08.vcd	Come on, you got this.
+/afm1_see_bomb_pickup_01.vcd	Okey, got the Bomb.
+/afm1_see_bomb_pickup_02.vcd	Got the Bomb.
+/afm1_see_bomb_pickup_03.vcd	Got the Bomb back.
+/afm1_see_hostage_stolen_01.vcd	They took a Hostages!
+/afm1_see_hostage_stolen_02.vcd	I see them with the Hostage!
+/afm1_see_hostage_stolen_03.vcd	They got the Hostage!
+/afm1_see_hostage_stolen_04.vcd	They're at the Hostages!
+/afm1_see_hostage_stolen_05.vcd	Shit! They got the Hostage.
+/afm1_sees_area_clear_01.vcd	All clear.
+/afm1_sees_area_clear_02.vcd	No one here.
+/afm1_sees_area_clear_03.vcd	We're clear.
+/afm1_sees_area_clear_04.vcd	Area is clear.
+/afm1_sees_area_clear_05.vcd	I don't see anybody.
+/afm1_sees_area_clear_06.vcd	Looks like we're clear.
+/afm1_sees_dropped_bomb_01.vcd	We dropped the Bomb.
+/afm1_sees_dropped_bomb_02.vcd	Shit! The Bomb's dropped.
+/afm1_sees_dropped_bomb_03.vcd	Somebody get the Bomb.
+/afm1_sees_dropped_bomb_04.vcd	The Bomb's on the ground.
+/afm1_sees_dropped_bomb_05.vcd	Who dropped the damn Bomb?
+/afm1_sees_enemy_01.vcd	I see them.
+/afm1_sees_enemy_02.vcd	Area.
+/afm1_sees_enemy_03.vcd	Movement.
+/afm1_sees_enemy_04.vcd	I see him.
+/afm1_sees_enemy_05.mp3	That's definitely them.
+/afm1_sees_enemy_05.vcd	Yeah, that's definitely them.
+/afm1_sees_enemy_06.mp3	I'm looking at him.
+/afm1_sees_enemy_06.vcd	Okay, I'm looking at him.
+/afm1_sees_enemy_killed_01.vcd	Nice shot!
+/afm1_sees_enemy_killed_02.mp3	Nice one.
+/afm1_sees_enemy_killed_02.vcd	Haha, nice one.
+/afm1_sees_enemy_killed_03.vcd	Good kill.
+/afm1_sees_enemy_killed_04.vcd	You got all of that one.
+/afm1_sees_enemy_killed_05.vcd	Sweet.
+/afm1_sees_enemy_killed_06.vcd	Nicee.
+/afm1_sees_enemy_killed_07.mp3	More like that!
+/afm1_sees_enemy_killed_07.vcd	Okay, more like that!
+/afm1_sees_enemy_killed_08.vcd	Ha! Good one.
+/afm1_sees_enemy_killed_09.vcd	Keep it up.
+/afm1_sees_friend_killed_01.vcd	What the hell?
+/afm1_sees_friend_killed_02.vcd	Calm the hell down.
+/afm1_sees_friend_killed_03.vcd	They're on ourside, dipshit.
+/afm1_sees_friend_killed_04.vcd	What the hell's your problem?
+/afm1_sees_friend_killed_05.vcd	Hold your fire!
+/afm1_sees_friend_killed_06.vcd	Hold your goddamn fire!
+/afm1_sees_friend_killed_07.vcd	Ohh ohh!
+/afm1_sees_hostage_death_01.vcd	They're killing our Hostages!
+/afm1_sees_hostage_death_02.vcd	We're losing Hostages!
+/afm1_sees_hostage_death_03.vcd	We lost the Hostage!
+/afm1_sees_hostage_death_04.vcd	They're killing Hostages! They're crazy!
+/afm1_sees_hostage_death_05.vcd	Holy shit! They're killing Hostages!
+/afm1_sees_multiple_enemies_01.vcd	Got a few here.
+/afm1_sees_multiple_enemies_02.vcd	Group of them, here.
+/afm1_sees_multiple_enemies_03.vcd	I've got eyes on a group.
+/afm1_sees_multiple_enemies_04.mp3	There's a few of them here.
+/afm1_sees_multiple_enemies_04.vcd	Yeah, there's a few of them here.
+/afm1_sees_multiple_enemies_05.vcd	More than one over here.
+/afm1_sees_one_enemy_01.vcd	Got one here.
+/afm1_sees_one_enemy_02.vcd	I have one here.
+/afm1_sees_one_enemy_03.vcd	Got a live one here.
+/afm1_sees_one_enemy_04.vcd	I see one here.
+/afm1_sees_one_enemy_05.vcd	There's just one here.
+/afm1_sees_one_enemy_06.vcd	I only see one.
+/afm1_sees_sniper_01.vcd	Sniper.
+/afm1_sees_sniper_02.vcd	Sniper! Sniper!
+/afm1_sees_sniper_03.vcd	Sniper!
+/afm1_sees_sniper_killed_01.vcd	Somebody killed the Sniper.
+/afm1_sees_sniper_killed_02.vcd	Sniper's dead.
+/afm1_sees_sniper_killed_03.vcd	Sniper down.
+/afm1_sees_sniper_killed_04.vcd	So long, Sniper... Dipshit.
+/afm1_sees_sniper_killed_05.vcd	The Sniper's dead.
+/afm1_sees_sniper_killed_06.vcd	That Sniper's dead.
+/afm1_sees_team_combo_01.vcd	We got his.
+/afm1_sees_team_combo_02.vcd	Ohh baby! Yes!
+/afm1_sees_team_combo_03.vcd	Yeaah!
+/afm1_sees_team_combo_04.vcd	All right!
+/afm1_sees_team_combo_05.vcd	Let's do more of that!
+/afm1_sees_team_combo_06.vcd	Yess!
+/afm1_sorry_01.vcd	Sorry.
+/afm1_sorry_02.vcd	Sorry about that.
+/afm1_sorry_03.vcd	My fault.
+/afm1_sorry_04.vcd	Sorry, man.
+/afm1_takingfire_01.vcd	I'm spotted.
+/afm1_takingfire_02.vcd	Taking fire!
+/afm1_takingfire_03.vcd	Spotted!
+/afm1_takingfire_04.vcd	Taking fire!
+/afm1_takingfire_05.vcd	They see me!
+/afm1_takingfire_friendly_01.vcd	Hurry!
+/afm1_takingfire_friendly_02.vcd	Watch it!
+/afm1_takingfire_friendly_03.vcd	Hey, what are you doing!?
+/afm1_takingfire_friendly_04.vcd	Hey, hey, hey!
+/afm1_takingfire_friendly_05.vcd	Dahh! Watch out!
+/afm1_takingfire_friendly_06.vcd	Ahh! On your side.
+/afm1_takingfire_friendly_07.vcd	Ahh! C'mon!
+/afm1_takingfire_friendly_08.vcd	Ow! Knock it off!
+/afm1_takingfire_friendly_09.vcd	Yo! You...! Ah...
+/afm1_takingfire_friendly_10.vcd	Stop. It.
+/afm1_ten_seconds_remaining_01.vcd	Under ten ticks.
+/afm1_ten_seconds_remaining_02.vcd	Almost there.
+/afm1_ten_seconds_remaining_03.vcd	It's close.
+/afm1_thankful_01.vcd	Thanks.
+/afm1_thankful_02.vcd	Thanks a lot.
+/afm1_thankful_03.vcd	Thank you.
+/afm1_thankful_04.vcd	Thanks buddy.
+/afm1_thankful_05.vcd	Thanks!
+/afm1_thankful_06.vcd	Thanks, man!
+/afm1_thankful_07.vcd	Thank you.
+/afm1_throwing_decoy_01.vcd	Decoy out!
+/afm1_throwing_decoy_02.vcd	Decoy's out!
+/afm1_throwing_decoy_03.vcd	Decoy deployed!
+/afm1_throwing_fire_01.vcd	Throwing Fire!
+/afm1_throwing_fire_02.vcd	Incendiary out!
+/afm1_throwing_fire_03.vcd	Throwing Incendiary!
+/afm1_throwing_flashbang_01.vcd	Flashbang out!
+/afm1_throwing_flashbang_02.vcd	Throwing Flashbang!
+/afm1_throwing_flashbang_03.vcd	Flashbang!
+/afm1_throwing_grenade_01.vcd	Fire in the hole!
+/afm1_throwing_grenade_02.vcd	Grenade!
+/afm1_throwing_grenade_03.vcd	Grenade.
+/afm1_throwing_molotov_01.vcd	Throwing a Molotov!
+/afm1_throwing_molotov_02.vcd	Molotov out!
+/afm1_throwing_molotov_03.mp3	Molotov!
+/afm1_throwing_molotov_03.vcd	Pushin' a Molotov!
+/afm1_throwing_smoke_01.vcd	Smoking!
+/afm1_throwing_smoke_02.vcd	Throwing Smoke!
+/afm1_throwing_smoke_03.vcd	Smoke's out!
+/afm1_waiting_here_01.vcd	I'll hold here.
+/afm1_waiting_here_02.vcd	I will wait here.
+/afm1_waiting_here_03.vcd	Ready and waiting.
+/afm1_waiting_here_04.vcd	I'm waiting here.
+/afm1_waiting_here_05.vcd	I'm in position and waiting.

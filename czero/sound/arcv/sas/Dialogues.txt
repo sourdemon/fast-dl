@@ -1,0 +1,495 @@
+/Affirmative01.vcd	Roger.
+/Affirmative02.vcd	Affirmative.
+/Affirmative03.vcd	Roger that.
+/Affirmative04.vcd	Roger that!
+/Agree01.vcd	Correct.
+/Agree02.vcd	Okay.
+/Agree03.vcd	Yes.
+/Agree04.vcd	That's a copy.
+/Blinded01.vcd	Blinded!
+/Blinded02.vcd	I've been flashed!
+/Blinded03.vcd	Flashed! Flashed!
+/Blinded04.vcd	Flashed!
+/BombsiteClear01.vcd	The Bombsite is secure.
+/BombsiteClear02.vcd	The Bombsite is secure, lads.
+/BombsiteClear03.vcd	Bombsite under control.
+/BombTickingDown01.vcd	That Bomb's still tickin', boys.
+/BombTickingDown02.vcd	We need to defuse that Bomb.
+/BombTickingDown03.vcd	Let's get that Bomb.
+/BombTickingDown04.vcd	That Bomb's not gonna defuse itself now.
+/BombTickingDown05.vcd	The Bomb's ticking down.
+/ClearedArea01.vcd	All clear.
+/ClearedArea02.vcd	Clear.
+/ClearedArea03.vcd	We're in the clear.
+/ClearedArea04.vcd	Area clear.
+/ClearedArea05.vcd	Area secure.
+/CommanderDown01.vcd	Commander down!
+/CommanderDown02.vcd	We lost the Commander!
+/CommanderDown03.vcd	Commander down!
+/CoveringFriend01.vcd	I've got your back.
+/CoveringFriend02.vcd	I've got you covered, mate.
+/CoveringFriend03.vcd	Covering.
+/CoveringFriend04.vcd	Covering.
+/CoverMe01.vcd	Cover me.
+/CoverMe02.vcd	Cover.
+/CoverMe03.vcd	Hold up son, cover me.
+/ct_bombexploding01.vcd	Oh crap...
+/ct_bombexploding02.vcd	Get back!
+/ct_bombexploding03.vcd	Oh no...
+/ct_bombexploding04.vcd	Pants!
+/ct_bombexploding05.vcd	CLEAR THE AREA!
+/ct_bombexploding06.vcd	Crap.
+/ct_bombexploding07.vcd	It's too late.
+/ct_bombexploding08.vcd	Oh, bugger it.
+/ct_bombexploding09.vcd	Oh, sod it!
+/ct_bombexploding10.vcd	Oh, here we go.
+/ct_death01.vcd	Ahh..!
+/ct_death02.vcd	Ahhh.!
+/ct_death03.vcd	Ohhh.!
+/ct_death04.vcd	Nooo.!
+/ct_death05.vcd	Ah...!
+/ct_death06.vcd	Noo..!
+/ct_decoy01.vcd	Decoy!
+/ct_decoy02.vcd	Decoy's out.
+/ct_decoy03.vcd	Deploying Decoy.
+/ct_flashbang01.vcd	Flashbang!
+/ct_flashbang02.vcd	Deploying Flashbang.
+/ct_flashbang03.vcd	Throwing Flashbang.
+/ct_grenade01.vcd	Grenade out.
+/ct_grenade03.vcd	Throwing a Grenade.
+/ct_grenade04.vcd	Grenade!
+/ct_grenade05.vcd	Grenade out!
+/ct_molotov01.vcd	Incendiary out.
+/ct_molotov02.vcd	Throwing Fire.
+/ct_molotov03.vcd	Incendiary!
+/ct_molotov04.vcd	Throwing Fire!
+/ct_smoke01.vcd	Smoke!
+/ct_smoke02.vcd	Throwing smoke.
+/ct_smoke03.vcd	Laying down smoke.
+/ctmap_cs_source01.vcd	Alley.
+/ctmap_cs_source02.vcd	Checking the Alley.
+/ctmap_cs_source03.vcd	At the Alley.
+/ctmap_cs_source04.vcd	Apartments.
+/ctmap_cs_source05.vcd	Checking the Apartments.
+/ctmap_cs_source06.vcd	I'm at the Apartments.
+/ctmap_cs_source07.vcd	Arch.
+/ctmap_cs_source08.vcd	Checking the Arch.
+/ctmap_cs_source09.vcd	At the Arch.
+/ctmap_cs_source10.vcd	Back Alley.
+/ctmap_cs_source11.vcd	Checking the Back Alley.
+/ctmap_cs_source12.vcd	At the Back Alley.
+/ctmap_cs_source13.vcd	Back Hall.
+/ctmap_cs_source14.vcd	Checking the Back Hall.
+/ctmap_cs_source15.vcd	At the Back Hall.
+/ctmap_cs_source16.vcd	Balcony.
+/ctmap_cs_source17.vcd	I'm checking the Balcony.
+/ctmap_cs_source18.vcd	At the Balcony.
+/ctmap_cs_source19.vcd	Banana.
+/ctmap_cs_source20.vcd	Checking the Banana.
+/ctmap_cs_source21.vcd	At the Banana.
+/ctmap_cs_source22.vcd	Bedroom.
+/ctmap_cs_source23.vcd	Checking the Bedroom.
+/ctmap_cs_source24.vcd	In the Bedroom.
+/ctmap_cs_source25.vcd	Bombsite A.
+/ctmap_cs_source26.vcd	Checking Bombsite A.
+/ctmap_cs_source27.vcd	At Bombsite A.
+/ctmap_cs_source28.vcd	Bombsite B.
+/ctmap_cs_source29.vcd	Checking Bombsite B.
+/ctmap_cs_source30.vcd	At Bombsite B.
+/ctmap_cs_source31.vcd	Bridge.
+/ctmap_cs_source32.vcd	Checking the Bridge.
+/ctmap_cs_source33.vcd	At the Bridge.
+/ctmap_cs_source34.vcd	Catwalk.
+/ctmap_cs_source35.vcd	Checking the Catwalk.
+/ctmap_cs_source36.vcd	At the Catwalk.
+/ctmap_cs_source37.vcd	Crawlspace.
+/ctmap_cs_source38.vcd	Checking the Crawlspace.
+/ctmap_cs_source39.vcd	At the Crawlspace.
+/ctmap_cs_source40.vcd	Cruise/Crews. (?)
+/ctmap_cs_source41.vcd	Checking the Cruise/Crews. (?)
+/ctmap_cs_source42.vcd	At the Cruise/Crews. (?)
+/ctmap_cs_source43.vcd	CT Red.
+/ctmap_cs_source44.vcd	Checking CT Red.
+/ctmap_cs_source45.vcd	At CT Red.
+/ctmap_cs_source46.vcd	Red.
+/ctmap_cs_source48.vcd	At Red.
+/ctmap_cs_source49.vcd	CT Side Lower.
+/ctmap_cs_source50.vcd	Checking the CT Side Lower.
+/ctmap_cs_source51.vcd	At the CT Side Lower.
+/ctmap_cs_source52.vcd	CT Side Upper.
+/ctmap_cs_source53.vcd	Checking the CT Side Upper.
+/ctmap_cs_source54.vcd	At CT Side Upper.
+/ctmap_cs_source55.vcd	At our Insertion Point.
+/ctmap_cs_source56.vcd	Checking our Insertion Point.
+/ctmap_cs_source57.vcd	At our Insertion Point.
+/ctmap_cs_source58.vcd	Deck.
+/ctmap_cs_source59.vcd	Checking the Deck.
+/ctmap_cs_source60.vcd	At the Deck.
+/ctmap_cs_source61.vcd	Ducts.
+/ctmap_cs_source62.vcd	Checking the Ducts.
+/ctmap_cs_source63.vcd	I'm at the Ducts.
+/ctmap_cs_source64.vcd	Garden.
+/ctmap_cs_source65.vcd	Checking the Garden.
+/ctmap_cs_source66.vcd	At the Garden.
+/ctmap_cs_source67.vcd	Graveyard.
+/ctmap_cs_source68.vcd	Checking the Graveyard.
+/ctmap_cs_source69.vcd	At the Graveyard.
+/ctmap_cs_source70.vcd	Hay.
+/ctmap_cs_source71.vcd	Checking the Hay.
+/ctmap_cs_source72.vcd	At the Hay.
+/ctmap_cs_source73.vcd	Hut.
+/ctmap_cs_source74.vcd	Checking the Hut.
+/ctmap_cs_source75.vcd	At the Hut.
+/ctmap_cs_source76.vcd	Inside.
+/ctmap_cs_source77.vcd	Checking Inside.
+/ctmap_cs_source78.vcd	I'm Inside.
+/ctmap_cs_source79.vcd	Ladder.
+/ctmap_cs_source81.vcd	By the Ladder.
+/ctmap_cs_source82.vcd	Library.
+/ctmap_cs_source83.vcd	Checking the Library.
+/ctmap_cs_source85.vcd	Lobby.
+/ctmap_cs_source87.vcd	At the Lobby.
+/ctmap_cs_source88.vcd	Loft.
+/ctmap_cs_source89.vcd	Checking the Loft.
+/ctmap_cs_source91.vcd	Logs.
+/ctmap_cs_source93.vcd	At the Logs.
+/ctmap_cs_source94.vcd	Lower Mid.
+/ctmap_cs_source96.vcd	At the Lower Mid.
+/ctmap_cs_source97.vcd	Main.
+/ctmap_cs_source99.vcd	At the Main.
+/ctmap_cs_source100.vcd	Middle.
+/ctmap_cs_source101.vcd	Checking the Middle.
+/ctmap_cs_source103.vcd	Pit.
+/ctmap_cs_source104.vcd	Checking the Pit.
+/ctmap_cs_source106.vcd	Quad.
+/ctmap_cs_source107.vcd	Checking the Quad.
+/ctmap_cs_source109.vcd	Radio.
+/ctmap_cs_source111.vcd	At the Radio.
+/ctmap_cs_source112.vcd	Rafters.
+/ctmap_cs_source114.vcd	At the Rafters.
+/ctmap_cs_source115.vcd	Ramp.
+/ctmap_cs_source117.vcd	At the Ramp.
+/ctmap_cs_source118.vcd	Roof.
+/ctmap_cs_source119.vcd	Checking the Roof.
+/ctmap_cs_source121.vcd	Ruins.
+/ctmap_cs_source123.vcd	At the Ruins.
+/ctmap_cs_source124.vcd	Second Mid.
+/ctmap_cs_source126.vcd	At the Second Mid.
+/ctmap_cs_source127.vcd	Side Hall.
+/ctmap_cs_source129.vcd	At the Side Hall.
+/ctmap_cs_source130.vcd	At the Side Yard.
+/ctmap_cs_source131.vcd	Checking the Side Yard.
+/ctmap_cs_source133.vcd	Sniper Box.
+/ctmap_cs_source134.vcd	Checking the Sniper Box.
+/ctmap_cs_source136.vcd	Squeaky.
+/ctmap_cs_source137.vcd	Checking the Squeaky.
+/ctmap_cs_source139.vcd	Top of Mid.
+/ctmap_cs_source140.vcd	Checking the Top of Mid.
+/ctmap_cs_source142.vcd	Tower.
+/ctmap_cs_source144.vcd	At the Tower.
+/ctmap_cs_source145.vcd	Truck.
+/ctmap_cs_source147.vcd	At the Truck.
+/ctmap_cs_source148.vcd	T Side Lower.
+/ctmap_cs_source149.vcd	Checking the T Side Lower.
+/ctmap_cs_source151.vcd	At their Entry Point.
+/ctmap_cs_source152.vcd	Checking their Entry Point.
+/ctmap_cs_source153.vcd	At their Entry Point.
+/ctmap_cs_source154.vcd	T Stairs.
+/ctmap_cs_source156.vcd	At the T Stairs.
+/ctmap_cs_source157.vcd	Underground.
+/ctmap_cs_source158.vcd	Checking the Underground.
+/ctmap_cs_source159.vcd	At the Underground.
+/ctmap_cs_source160.vcd	Upstairs.
+/ctmap_cs_source162.vcd	I'm Upstairs.
+/ctmap_cs_source163.vcd	Warehouse.
+/ctmap_cs_source165.vcd	At the Warehouse.
+/DefusingBomb01.vcd	Defusin'
+/DefusingBomb02.vcd	I'm defusin' the Bomb.
+/DefusingBomb03.vcd	Defusin' the Bomb.
+/DefusingBomb04.vcd	Defusing.
+/Disagree01.vcd	No.
+/Disagree02.vcd	That's a negative.
+/Disagree05.vcd	I'm gonna disagree.
+/Disagree06.vcd	I disagree.
+/EnemyDown01.vcd	1 down.
+/EnemyDown02.vcd	Got one!
+/EnemyDown03.vcd	He's down.
+/EnemyDown04.vcd	Drop them!
+/EnemyDown05.vcd	Got 'em!
+/EnemyDown06.vcd	Got one.
+/EnemyDown07.vcd	He's down.
+/EnemyDown08.vcd	Drop 'em!
+/EnemyDown09.vcd	I got one.
+/EnemyDown10.vcd	He's hit.
+/EnemyDown11.vcd	Bad guy down.
+/EnemyDown12.vcd	He's down.
+/EnemyDown13.vcd	I hit him.
+/EnemyDown14.vcd	Good night.
+/EnemyDown15.vcd	Piker down.
+/FollowingFriend01.vcd	You lead.
+/FollowingFriend02.vcd	Lead the way.
+/FollowingFriend03.vcd	I'm behind you.
+/FollowingFriend06.vcd	I'm with you, mate.
+/FriendlyFire01.vcd	Enough of the friendly fire.
+/FriendlyFire02.vcd	"Pull yourselves together, son!
+You ain't in the green army now!"
+/FriendlyFire03.vcd	Watch the friendly fire
+/FriendlyFire04.vcd	Hold your fire!
+/FriendlyFire05.vcd	Hold your fire! Hold your fire!
+/FriendlyFire06.vcd	Pull yourself together, son.
+/FriendlyFire07.vcd	What are you doin', mate?
+/FriendlyFire08.vcd	Hey son, don't you be shooting me!
+/FriendlyFire09.vcd	That's enough of that!
+/GoingToGuardLooseBomb01.vcd	Heading to the dropped Bomb.
+/GoingToGuardLooseBomb02.vcd	Going to cover the dropped Bomb.
+/GoingToGuardLooseBomb03.vcd	Headin' to the Bomb.
+/GuardingLooseBomb01.vcd	Guarding the dropped Bomb.
+/GuardingLooseBomb02.vcd	I'm staying with the Bomb.
+/GuardingLooseBomb03.vcd	Covering the Bomb.
+/HeardNoise01.vcd	I heard something.
+/HeardNoise02.vcd	I heard a noise.
+/HeardNoise03.vcd	I think I heard them.
+/Help01.vcd	I need help!
+/Help02.vcd	I'm getting pounded here!
+/Help03.vcd	Need help.
+/Help04.vcd	Help.
+/Help06.vcd	Backup.
+/InCombat01.vcd	Attacking!
+/InCombat02.vcd	Weapons hot!
+/InCombat03.vcd	Opening up!
+/InCombat04.vcd	Firing!
+/InCombat05.vcd	It's on!
+/InCombat06.vcd	Letting go!
+/InCombat07.vcd	Firing.
+/InCombat08.vcd	Engaging.
+/InCombat09.vcd	Laying into them!
+/InPosition01.vcd	I'm in position.
+/InPosition02.vcd	I'm ready.
+/InPosition03.vcd	In position.
+/KilledFriend01.vcd	This is a proper mess!
+/KilledFriend02.vcd	Hold your fire, man down!
+/KilledFriend03.vcd	What have you gone and done, mate?
+/KilledFriend04.vcd	That's not right mate!
+/KilledFriend05.vcd	What have you gone and done, son?
+/KilledFriend06.vcd	He's dead! In case you missed that fact.
+/KilledFriend07.vcd	Hey sonny, don't make me take that gun away from you!
+/KilledFriend08.vcd	You killed him, you piker!
+/KilledFriend10.vcd	You just killed one of your mates!
+/LastManStanding01.vcd	I'm gonna miss you, mates.
+/LastManStanding02.vcd	At least we stopped 'em boys, at least we stopped 'em...
+/LastManStanding03.vcd	I'm still standing.
+/LastManStanding04.vcd	This didn't go quite right.
+/LastManStanding05.vcd	That was a real barney.
+/LastManStanding06.vcd	At least that's over...
+/LastManStanding07.vcd	That's enough of that.
+/LastManStanding08.vcd	Aye, a bit rougher than expected, eh?
+/LastManStanding09.vcd	I'm gutted we didn't all make it, boys.
+/LostEnemy01.vcd	Lost 'em.
+/LostEnemy02.vcd	Lost the target.
+/LostEnemy03.vcd	I lost them.
+/Negative01.vcd	Negative.
+/Negative02.vcd	That's a negative.
+/Negative03.vcd	That's a no.
+/Negative04.vcd	And that will be no, sir.
+/Negative05.vcd	No.
+/Negative06.vcd	No, sir.
+/NiceShot01.vcd	Nice shot, son.
+/NiceShot02.vcd	Good one, lad!
+/NiceShot03.vcd	That's a good kill.
+/NiceShot04.vcd	Way to go, boys.
+/NiceShot05.vcd	Nice shot, lad.
+/NiceShot06.vcd	Good one, son!
+/NiceShot07.vcd	Brilliant!
+/NiceShot08.vcd	You got 'em!
+/NiceShot09.vcd	You're on it!
+/NiceShot10.vcd	Oh, that's brilliant shooting, lad.
+/NiceShot11.vcd	Blindin' shot, son.
+/NiceShot12.vcd	You're champion, sonny.
+/NoEnemiesLeft01.vcd	We got 'em all.
+/NoEnemiesLeft02.vcd	None left.
+/NoEnemiesLeft03.vcd	It's just us left, son.
+/NoEnemiesLeft04.vcd	Nice job! They're all dead.
+/NoEnemiesLeft05.vcd	They're all dead, son.
+/NoEnemiesLeftBomb01.vcd	They're dead, now let's go get that Bomb.
+/NoEnemiesLeftBomb02.vcd	We still got a Bomb ticking, boys. Chop chop!
+/NoEnemiesLeftBomb03.vcd	We still got a Bomb ticking, boys. Let's get to it!
+/NoEnemiesLeftBomb04.vcd	Let's not forget to defuse that bomb now. Come on!
+/NoEnemiesLeftBomb05.vcd	Right lads, they're all dead, but we still got a Bomb to defuse.
+/NoEnemiesLeftBomb06.vcd	I reckon we should defuse that Bomb.
+/NoEnemiesLeftBomb07.vcd	Well lads, it's just us and the Bomb.
+/OnARollBrag01.vcd	Nice!
+/OnARollBrag02.vcd	There you go!
+/OnARollBrag03.vcd	You're champion!
+/OnARollBrag04.vcd	Alright, alright!
+/OnARollBrag05.vcd	Right on!
+/OnARollBrag06.vcd	Right on, right on!
+/OnARollBrag07.vcd	There is no stopping us!
+/OnARollBrag08.vcd	We took the piss out of 'em!
+/OnARollBrag09.vcd	We are really laying into them!
+/OnARollBrag10.vcd	We are getting stuck right into them!
+/OnARollBrag11.vcd	We are in the clear, lads!
+/OnARollBrag12.vcd	Good stuff!
+/OnARollBrag13.vcd	Easy peasy, lemon squeezy!
+/OnARollBrag14.vcd	It's a piece of cake, so it is!
+/OneEnemyLeft01.vcd	1 guy left.
+/OneEnemyLeft02.vcd	Only one left.
+/OneEnemyLeft03.vcd	1 piker left.
+/OneEnemyLeft04.vcd	Only one left.
+/OneEnemyLeft05.vcd	1 left now.
+/OneEnemyLeft06.vcd	They've still got one out there.
+/OneEnemyLeft07.vcd	That makes one left.
+/OneEnemyLeft08.vcd	That makes one.
+/OnMyWay01.vcd	On my way.
+/OnMyWay02.vcd	Copy that, coming.
+/OnMyWay03.vcd	I've got you, I'm on my way.
+/OnMyWay04.vcd	Copy that, I'll be right there.
+/PepTalk01.vcd	Boys, we can do this.
+/PepTalk04.vcd	Come now, let's stick to the mission.
+/PepTalk06.vcd	Stay disciplined.
+/PinnedDown01.vcd	Taking fire.
+/PinnedDown02.vcd	I'm pinned!
+/PinnedDown04.vcd	Pinned!
+/PinnedDown05.vcd	I'm pinned!
+/PinnedDown06.vcd	Under fire here!
+/PinnedDown07.vcd	Under fire! Repeat: Under fire!
+/Radio.EnemySpotted01.vcd	Target spotted.
+/Radio.EnemySpotted02.vcd	Target's acquired.
+/Radio.EnemySpotted03.vcd	Enemy spotted.
+/Radio.EnemySpotted04.vcd	Contact!
+/Radio.EnemySpotted05.vcd	Stay frosty!
+/Radio.EnemySpotted06.vcd	Eyes on enemy.
+/Radio.EnemySpotted07.vcd	Contact.
+/Radio.EnemySpotted08.vcd	I've got movement.
+/Radio.FollowMe01.vcd	Follow me.
+/Radio.FollowMe02.vcd	I'll lead.
+/Radio.FollowMe03.vcd	I'll taking point.
+/Radio.FollowMe04.vcd	On me.
+/radio.letsgo01.vcd	Go go go!
+/radio.letsgo02.vcd	Let's go!
+/radio.letsgo03.vcd	Move it! Move it!
+/radio.letsgo05.vcd	C'mon, c'mon! Chop, chop!
+/radio.letsgo06.vcd	MOVE!
+/radio.letsgo07.vcd	Move it, son!
+/radio.locknload01.vcd	Let's make this right as rain.
+/radio.locknload02.vcd	Let's go, fellas.
+/radio.locknload03.vcd	Let's move out!
+/radio.locknload04.vcd	Let's move out.
+/radio.locknload05.vcd	Remove any doubts in your head; It's us or them.
+/radio.locknload06.vcd	Remember, this isn't the killing house anymore, this is real life.
+/radio.locknload07.vcd	Watch out, these boys have got a bit of an arsenal and they don't mind using it.
+/radio.locknload08.vcd	Let's have it, lads!
+/radio.locknload09.vcd	Let's give it on them, boys!
+/radio.locknload10.vcd	Let's show them who are!
+/radio.locknload11.vcd	Are we rushin' in, or are we goin' sneaky beaky like?
+/radio.locknload12.vcd	For queen 'n country, men!
+/radio.locknload13.vcd	Remeber, this is bandit country... Shoot everything that moves.
+/radio.locknload14.vcd	Gear up! We're going in.
+/radio.locknload15.vcd	We are out of here.
+/radio.locknload16.vcd	We're on!
+/radio.locknload17.vcd	Right lads, we're on.
+/radio.locknload18.vcd	These fellas are gonna regret waking up this morning.
+/radio.locknload19.vcd	They're gonna wish they we're never born.
+/radio.locknload20.vcd	Let's have at it, mates!
+/radio.locknload21.vcd	Gear up, we aren't goin' on a windy walk here!
+/Radio.NeedBackup01.vcd	Need support!
+/Radio.NeedBackup02.vcd	Need backup!
+/Radio.NeedBackup03.vcd	Need support now!
+/Radio.TakingFire01.vcd	I'm under fire!
+/Radio.TakingFire02.vcd	Under fire here!
+/Radio.TakingFire03.vcd	Contact!
+/Radio.TakingFire04.vcd	I'm in trouble!
+/Radio.TakingFire05.vcd	Taking fire!
+/Radio.TakingFire06.vcd	I think they're trying to kill me!
+/RadioBotEndClean01.vcd	That went down a storm!
+/RadioBotEndClean02.vcd	Guess we got that mess sorted out.
+/RadioBotEndClean03.vcd	That was sterling stuff, men!
+/RadioBotEndClean04.vcd	Smashing work, boys!
+/RadioBotEndClean05.vcd	That's great work, lads!
+/RadioBotEndClean06.vcd	We're all going home tonight.
+/RadioBotEndClose01.vcd	Ow, that was close, mates
+/RadioBotEndClose02.vcd	Well, that was a bit dodgy.
+/RadioBotEndClose03.vcd	I fancy that's as close as I'd like it to get.
+/RadioBotEndClose04.vcd	That was a little bit close, lads.
+/RadioBotEndClose05.vcd	That was close, mate!
+/RadioBotEndClose06.vcd	Hey lads! Let's put that one behind us!
+/RadioBotEndSolid01.vcd	Aye, we gave them a spanking!
+/RadioBotEndSolid02.vcd	Aye, we gave them a tanning!
+/RadioBotEndSolid03.vcd	Nice work, boys!
+/RadioBotEndSolid04.vcd	Nice work!
+/RadioBotEndSolid05.vcd	Solid work, boys.
+/RadioBotEndSolid06.vcd	Job well done there, son.
+/RadioBotEndSolid07.vcd	Bingo bango bongo bish bash bosh.
+/RadioBotFallBack01.vcd	Fall back!
+/RadioBotFallBack02.vcd	Backup!
+/RadioBotFallBack03.vcd	Back!
+/RadioBotHold01.vcd	Hold this position.
+/RadioBotHold02.vcd	Cover this area.
+/RadioBotQuery01.vcd	Report in.
+/RadioBotRegroup01.vcd	Regroup.
+/RadioBotRegroup02.vcd	Stick together.
+/RadioBotRegroup03.vcd	Regroup, regroup.
+/RadioBotTime01.vcd	Oh come on, chop chop!
+/RadioBotTime02.vcd	Time's running out!
+/RadioBotTime03.vcd	We don't have much time!
+/RadioBotWait06.vcd	Hold your positions.
+/ReportingIn01.vcd	Reporting in.
+/ReportingIn02.vcd	Checking in.
+/ReportingIn03.vcd	Reporting in.
+/RequestReport01.vcd	Report in.
+/RequestReport02.vcd	Status?
+/RequestReport03.vcd	Check in.
+/ScaredEmote01.vcd	We are bang in trouble here, boys.
+/ScaredEmote02.vcd	We are knee deep in trouble here, boys.
+/ScaredEmote03.vcd	We made a complete pig's ear of this.
+/ScaredEmote04.vcd	Well this is a bit bloody wonky.
+/ScaredEmote05.vcd	Come on, come on, come on!
+/ScaredEmote06.vcd	Oh well, this is all at sixes and sevens.
+/ScaredEmote07.vcd	Well, you made a right arse of this, didn't ya?
+/ScaredEmote08.vcd	Oh ye buggered this up big time.
+/SniperKilled01.vcd	Sniper down.
+/SniperKilled02.vcd	Got the sniper.
+/SniperKilled03.vcd	Sniper down.
+/SniperWarning01.vcd	Stay frosty, Sniper!
+/SniperWarning02.vcd	Sniper!
+/SniperWarning03.vcd	We've got a Sniper!
+/SniperWarning04.vcd	Watch out, Sniper!
+/SpottedBomber01.vcd	He's got the Bomb.
+/SpottedBomber02.vcd	Spotted the Bomb carrier.
+/SpottedBomber03.vcd	I see the Bomb carrier.
+/SpottedBomber04.vcd	Bomb carrier spotted.
+/SpottedBomber05.vcd	Bomb carrier down range.
+/SpottedLooseBomb01.vcd	The Bomb has been dropped.
+/SpottedLooseBomb02.vcd	They dropped the Bomb.
+/SpottedLooseBomb03.vcd	The Bomb is on the ground.
+/SpottedLooseBomb05.vcd	The Bomb has been dropped.
+/SpottedLooseBomb06.vcd	The Bomb is down.
+/SpottedLooseBomb07.vcd	The Bomb is on the ground.
+/Thanks01.vcd	Thank you!
+/Thanks02.vcd	Thank you.
+/Thanks04.vcd	Cheers, big fella!
+/TheyPickedUpTheBomb01.vcd	They've got the Bomb.
+/TheyPickedUpTheBomb02.vcd	They picked up the Bomb.
+/TheyPickedUpTheBomb03.vcd	They recovered the Bomb.
+/ThreeEnemiesLeft01.vcd	3 guys left.
+/ThreeEnemiesLeft02.vcd	That makes three.
+/ThreeEnemiesLeft03.vcd	1 less.
+/ThreeEnemiesLeft05.vcd	I make it three to go.
+/ThreeEnemiesLeft06.vcd	3 left.
+/TwoEnemiesLeft01.vcd	2 guys left.
+/TwoEnemiesLeft02.vcd	They're down to two.
+/TwoEnemiesLeft03.vcd	2 fellas left.
+/TwoEnemiesLeft04.vcd	2 targets left.
+/TwoEnemiesLeft05.vcd	That makes two left.
+/WaitingForHumanToDefuseBomb01.vcd	Covering while you defuse.
+/WaitingForHumanToDefuseBomb02.vcd	You defuse the Bomb. I'll cover.
+/WaitingForHumanToDefuseBomb03.vcd	Go ahead and defuse the Bomb.
+/WaitingForHumanToDefuseBomb04.vcd	I have this, get the Bomb.
+/WaitingForHumanToDefuseBomb05.vcd	I've got this, you get the Bomb, son.
+/WaitingHere01.vcd	I'm waiting here.
+/WaitingHere02.vcd	Waiting here.
+/WaitingHere03.vcd	Staying here.
+/WaitingHere04.vcd	Holding here.
+/WhereIsTheBomb01.vcd	Where's the Bomb?
+/WhereIsTheBomb02.vcd	Did you see the Bomb?
+/WhereIsTheBomb03.vcd	Anyone see the Bomb?
+/WhereIsTheBomb04.vcd	Anyone have eyes on the Bomb?

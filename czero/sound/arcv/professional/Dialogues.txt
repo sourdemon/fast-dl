@@ -1,0 +1,367 @@
+/CoverMe01.vcd	Cover me!
+/CoverMe02.vcd	Cover!
+/InPosition01.vcd	I'm here.
+/RadioBombsite01.vcd	We got the Bombsite.
+/RadioBombsite02.vcd	It's clear, plant it.
+/RadioBombsite03.vcd	Bombsite under control.
+/RadioBotBombAtSafe01.vcd	Bomb's planted at the Safe.
+/RadioBotBombAtSafe02.vcd	The bomb is at the Safe.
+/RadioBotBombAtSafe03.vcd	We're ready to blow the Safe.
+/RadioBotBombDefusing01.vcd	The Bomb is being defused.
+/RadioBotBombDefusing02.vcd	They're trying to defuse the Bomb!
+/RadioBotBombDefusing05.vcd	They're at the Bomb.
+/RadioBotCheer01.vcd	Oh yeah!
+/RadioBotCheer02.vcd 	All right!
+/RadioBotCheer03.vcd 	Yes!
+/RadioBotCheer06.vcd 	That's cool, man!
+/RadioBotCheer08.vcd 	All right!
+/RadioBotCheer09.vcd 	Yes!
+/RadioBotCheer10.vcd 	Right there, right there! Yeah!
+/RadioBotCheer11.vcd 	Oh yeah!
+/RadioBotCheer12.vcd 	This is going to like clockwork, man.
+/RadioBotCheer13.vcd 	We are getting this done.
+/RadioBotClear01.vcd	All clear.
+/RadioBotClear02.vcd	No one here.
+/RadioBotClear03.vcd	Empty.
+/RadioBotClear04.vcd	Nothin' here.
+/RadioBotClear05.vcd	All clear.
+/RadioBotClear06.vcd	No one here.
+/RadioBotClear07.vcd	Nothin' here.
+/RadioBotEndClean01.vcd	Hahaha!
+/RadioBotEndClean02.vcd	That's it, right there.
+/RadioBotEndClean03.vcd	Money. We got it baby.
+/RadioBotEndClean04.vcd	We showed them who's in charge.
+/RadioBotEndClean05.vcd	Money. We got it baby.
+/RadioBotEndClean06.vcd	We got the money.
+/RadioBotEndClean07.vcd	Now that went according to plan.
+/RadioBotEndClean10.vcd	That was all us!
+/RadioBotEndClean11.vcd	That was all us.
+/RadioBotEndSolid01.vcd	Good job everyone.
+/RadioBotEndSolid02.vcd	That was solid.
+/RadioBotEndSolid04.vcd	Nice work.
+/RadioBotEndSolid05.vcd	We did it. Let's go.
+/RadioBotEndSolid06.vcd	That's over.
+/RadioBotEndSolid07.vcd	And that was that.
+/RadioBotEndSolid08.vcd	Man, we did it. Let's get outta here.
+/RadioBotFallBack01.vcd	Get back!
+/RadioBotFallBack02.vcd	Back!
+/RadioBotFallBack03.vcd	Come on! Back!
+/RadioBotFallBack04.vcd	Back! Back!
+/RadioBotFallBack05.vcd	Let's get out of here!
+/RadioBotFollowMe01.vcd	Let's go this way.
+/RadioBotFollowMe02.vcd	Behind me.
+/RadioBotFollowMe03.vcd	Follow me!
+/RadioBotFollowMe04.vcd	Follow me.
+/RadioBotFollowMe06.vcd	This way.
+/RadioBotFollowYou01.vcd	You go first.
+/RadioBotFollowYou02.vcd	Lead the way.
+/RadioBotFollowYou03.vcd	I'm with you.
+/RadioBotFollowYou04.vcd	Go ahead, I'll follow.
+/RadioBotFollowYou05.vcd	Lead the way!
+/radiobotgo01.vcd	Let's go! Let's go!
+/radiobotgo02.vcd	Go go go!
+/radiobotgo03.vcd	Let's go!
+/radiobotgo04.vcd	Go go go!
+/radiobotgo05.vcd	Let's go.
+/radiobotgo06.vcd	Move it, move it.
+/radiobotgo07.vcd	Let's go!
+/radiobotgo08.vcd	Let's go, people!
+/radiobotgo09.vcd	Come on, come on, let's go.
+/RadioBotGuarding01.vcd	Guarding the Bombsite.
+/RadioBotGuarding02.vcd	I'll watch the Bombsite.
+/RadioBotGuarding03.vcd	Staying at the Bombsite.
+/RadioBotGuarding04.vcd	Staying at the Safe.
+/RadioBotGuarding05.vcd	Guarding the Safe.
+/RadioBotGuarding06.vcd	I'm staying at the Safe.
+/RadioBotGuarding07.vcd	Staying with the Bomb.
+/RadioBotGuardingA01.vcd	Watching Bombsite A.
+/RadioBotGuardingA02.vcd	Covering Bombsite A.
+/RadioBotGuardingA03.vcd	Staying at Bombsite A.
+/RadioBotGuardingB01.vcd	Watching Bombsite B.
+/RadioBotGuardingB02.vcd	Covering Bombsite B.
+/RadioBotGuardingB03.vcd	Staying at Bombsite B.
+/RadioBotGuardingC01.vcd	Watching Bombsite C.
+/RadioBotGuardingC02.vcd	Covering Bombsite C.
+/RadioBotGuardingC03.vcd	Staying at Bombsite C.
+/RadioBotHear01.vcd	I think I heard something.
+/RadioBotHear02.vcd	Hey, anyone else hear that?
+/RadioBotHear03.vcd	What was that noise?
+/RadioBotHear04.vcd	I think I heard something.
+/RadioBotHear05.vcd	Did you hear that?
+/RadioBotHear06.vcd	Did you hear that?!
+/RadioBotHold02.vcd	Hey, cover this area.
+/RadioBotHold03.vcd	Cover this area.
+/RadioBotHold04.vcd	Stay here.
+/RadioBotKill01.vcd	Got 'em!
+/RadioBotKill04.vcd	He's down.
+/RadioBotKill06.vcd	Nailed one.
+/RadioBotKill07.vcd	Nailed him!
+/RadioBotKill08.vcd	Dropped him.
+/RadioBotKill09.vcd	Yeah, I dropped him.
+/RadioBotKill10.vcd	Finished him off.
+/RadioBotKill11.vcd	He's down.
+/RadioBotKillCount02.vcd	3 guys left.
+/RadioBotKillCount03.vcd	2 guys left.
+/RadioBotKillCount04.vcd	1 guy left
+/RadioBotKillCount05.vcd	Only one guy left.
+/RadioBotKillCount07.vcd	They're down to two.
+/RadioBotKillCount09.vcd	3 to go.
+/RadioBotKillCount10.vcd	Only two guys left.
+/RadioBotKillCount12.vcd	3 guys left.
+/RadioBotKillCount13.vcd	2 guys left.
+/RadioBotKillCount15.vcd	Only one left.
+/RadioBotKillCount16.vcd	1 guy left.
+/RadioBotKillCount18.vcd	That makes three left.
+/RadioBotKillCount19.vcd	That makes two left.
+/RadioBotKillCount21.vcd	1 guy.
+/RadioBotKillCount22.vcd	Only one guy.
+/RadioBotKillCount24.vcd	That makes three.
+/RadioBotKillCount25.vcd	That makes two.
+/RadioBotKillCount27.vcd	We got one guy trying to stop us.
+/RadioBotKillSniper01.vcd	The Sniper's down.
+/RadioBotKillSniper02.vcd	Got the Sniper.
+/RadioBotKillSniper03.vcd	Got that Sniper.
+/RadioBotKillSniper04.vcd	Sniper down.
+/RadioBotKillSniper05.vcd	I took out the Sniper.
+/RadioBotKillSniper06.vcd	Sniper's history.
+/RadioBotNiceShot01.vcd	Nice shot.
+/RadioBotNiceShot02.vcd	That's the one, yeah.
+/RadioBotNiceShot03.vcd	Nice shot.
+/RadioBotNiceShot04.vcd	That's the one.
+/RadioBotNiceShot05.vcd	Good kill.
+/RadioBotNiceShot06.vcd	Nice shot.
+/RadioBotNiceShot07.vcd	Hey, good shot.
+/RadioBotNiceShot08.vcd	That's how you do it.
+/RadioBotNiceShot09.vcd	Good shot.
+/RadioBotNiceShot10.vcd	Hey, way to go.
+/RadioBotNiceShot11.vcd	Yeah, good kill, man.
+/RadioBotNiceShot12.vcd	Yo, that's the one, that's the one.
+/RadioBotNiceShot13.vcd	Yeah, nice shot.
+/RadioBotPlanting01.vcd	Planting.
+/RadioBotPlanting02.vcd	I'm planting the Bomb.
+/RadioBotPlanting03.vcd	I'm gonna blow the Safe.
+/RadioBotPlanting04.vcd	Gonna plant.
+/RadioBotPlanting05.vcd	I'm settin' the Bomb.
+/RadioBotPlanting06.vcd	Settin' the Bomb.
+/RadioBotPlanting07.vcd	Blowing the Safe.
+/RadioBotPlantingGo01.vcd	Going to plant the Bomb.
+/RadioBotPlantingGo02.vcd	Gonna plant.
+/RadioBotPlantingGo03.vcd	Gonna plant the Bomb.
+/RadioBotPlantingGoA01.vcd	Taking the Bomb to A.
+/RadioBotPlantingGoA02.vcd	I'm going to plant the Bomb at A.
+/RadioBotPlantingGoB01.vcd	I'm going to plant the Bomb at B.
+/RadioBotPlantingGoB02.vcd	Taking the Bomb to B.
+/RadioBotPlantingGoC01.vcd	I'm going to plant the Bomb at C.
+/RadioBotPlantingGoC02.vcd	I'm taking the Bomb to C.
+/RadioBotPlantingGoC03.vcd	Taking the Bomb to C.
+/RadioBotPlantingGoSafe01.vcd	Gonna blow the Safe.
+/RadioBotPlantingGoSafe02.vcd	Heading to the Safe.
+/RadioBotPlantingGoSafe03.vcd	Going to the Safe.
+/RadioBotPostFlash01.vcd	I can't see!
+/RadioBotPostFlash02.vcd	I'm blinded!
+/RadioBotPostFlash03.vcd	I can't see anything!
+/RadioBotPostFlash04.vcd	I'm blind!
+/RadioBotQuery01.vcd	Anyone see the cops?
+/RadioBotQuery02.vcd	Anyone see 'em?
+/RadioBotQuery03.vcd	Anyone see the cops?
+/RadioBotQuery04.vcd	Where are they?
+/RadioBotRegroup01.vcd	Stick together.
+/RadioBotRegroup02.vcd	Stick together.
+/RadioBotRegroup04.vcd	Hey, let's stick together.
+/radiobotreponseattacking01.vcd	Taking these guys out.
+/radiobotreponseattacking02.vcd	I'm attacking these guys.
+/radiobotreponseattacking03.vcd	I'm doing this.
+/radiobotreponseattacking04.vcd	Attacking!
+/radiobotreponseattacking05.vcd	I'm for it.
+/radiobotreponseattacking06.vcd	I'm lettin' em' have it.
+/radiobotreponseattacking07.vcd	Eat this!
+/radiobotreponseattacking08.vcd	I'm doing this.
+/radiobotreponseattacking09.vcd	Suck it!
+/radiobotreponsecoverrequest01.vcd	I've got you.
+/radiobotreponsecoverrequest02.vcd	Covering.
+/radiobotreponsecoverrequest03.vcd	I'm on it.
+/radiobotreponsecoverrequest04.vcd	I've got your back.
+/radiobotreponsecoverrequest05.vcd	I've got you.
+/radiobotreponsecoverrequest06.vcd	Yeah, covering.
+/radiobotreponsenegative01.vcd	No!
+/radiobotreponsenegative02.vcd	Get jacked, man.
+/radiobotreponsenegative03.vcd	That's a big no.
+/radiobotreponsenegative05.vcd	Negative, man.
+/radiobotreponsenegative06.vcd	That's ain't happening, bro.
+/radiobotreponsenegative07.vcd	Nope.
+/radiobotreponsenegative08.vcd	No way.
+/radiobotreponsenegative09.vcd	Nah.
+/radiobotreponsenegative10.vcd	Get bent.
+/radiobotreponsenegative12.vcd	That's a no.
+/radiobotreponsenegative14.vcd	Ain't happening.
+/radiobotreponsenegative16.vcd	Yeah! No.
+/radiobotreponsenegative19.vcd	Nope.
+/radiobotreponseomw01.vcd	I'm heading over.
+/radiobotreponseomw02.vcd	I'm on my way.
+/radiobotreponseomw03.vcd	I'll be there in a minute.
+/radiobotreponseomw04.vcd	Heading over.
+/radiobotreponseomw05.vcd	On my way.
+/radiobotreponsepositive01.vcd	Yup!
+/radiobotreponsepositive02.vcd	Alright.
+/radiobotreponsepositive03.vcd	Whatever.
+/radiobotreponsepositive04.vcd	Okay.
+/radiobotreponsepositive05.vcd	Okay.
+/radiobotreponsepositive06.vcd	Alright.
+/radiobotreponsepositive07.vcd	Sure.
+/radiobotreponsepositive08.vcd	Yeah!
+/radiobotreponsepositive09.vcd	Guess so.
+/radiobotreponsepositive10.vcd	Okay.
+/RadioBotReport01.vcd	What's going on?
+/RadioBotReport02.vcd	Hey, what's going on?
+/RadioBotReport03.vcd	What's up?
+/RadioBotReport04.vcd	What's up?
+/RadioBotReport05.vcd	Anyone? Come in.
+/RadioBotReport06.vcd	Anyone?
+/RadioBotReport07.vcd	Talk to me. What's up?
+/RadioBotReport08.vcd	Anyone see anything?
+/RadioBotStart01.vcd	Let's go.
+/RadioBotStart02.vcd	Let's do this.
+/RadioBotStart03.vcd	Let's do this thing, come on.
+/RadioBotStart04.vcd	Let's blow the safe.
+/RadioBotStart05.vcd	Hit it.
+/RadioBotStart06.vcd	Time to do this.
+/RadioBotStart07.vcd	Let's go, let's go.
+/RadioBotStart08.vcd	Let's do this quick.
+/RadioBotStart09.vcd	Let's get in and out.
+/RadioBotStart10.vcd	Let's get in and get out.
+/RadioBotTarget01.vcd	Cops!
+/RadioBotTarget05.vcd	I see one.
+/RadioBotTarget06.vcd	There's one.
+/RadioBotTarget08.vcd	Cops.
+/RadioBotUnderFire01.vcd	I'm under fire!
+/RadioBotUnderFire02.vcd	This was a bad idea!
+/RadioBotUnderFire03.vcd	I'm pinned down!
+/RadioBotUnderFire04.vcd	I'm in trouble!
+/RadioBotUnderFire05.vcd	Could use some help!
+/RadioBotUnderFire06.vcd	I need help!
+/RadioBotUnderFire07.vcd	Could use some help over here!
+/RadioBotUnderFire08.vcd	Help!
+/RadioBotUnderFire09.vcd	They're shooting at me!
+/RadioBotUnderFire10.vcd	Could use some help over here!
+/RadioBotUnderFire11.vcd	I'm in big trouble!
+/RadioBotUnderFireFriendly01.vcd	You idiot, don't shoot me!
+/RadioBotUnderFireFriendly02.vcd	Don't shoot me!
+/RadioBotUnderFireFriendly03.vcd	Hey, let's not lose it now.
+/RadioBotUnderFireFriendly04.vcd	Watch the friendly fire!
+/RadioBotUnderFireFriendly05.vcd	Pay attention to what you are doing.
+/RadioBotUnderFireFriendly06.vcd	Come on, keep your head in the game.
+/RadioBotUnderFireFriendly07.vcd	Hey, what are you doin', man?!
+/RadioBotUnderFireSniper01.vcd	Sniper!
+/RadioBotUnderFireSniper02.vcd	Watch out, sniper!
+/RadioBotUnderFireSniper04.vcd	Sniper! Sniper!
+/ReportingIn01.vcd	Here.
+/t_death01.vcd	Ahh..!
+/t_death02.vcd	Ohh..!
+/t_death03.vcd	Ahhhh!
+/t_death04.vcd	Uhh..!
+/t_death05.vcd	Ah...!
+/t_death06.vcd	Ughh.!
+/t_death07.vcd	Aghhh!
+/t_decoy01.vcd	Decoy.
+/t_decoy02.vcd	Decoy's out.
+/t_decoy03.vcd	Throwing a Decoy!
+/t_flashbang01.vcd	Flashbang!
+/t_flashbang03.vcd	Throwing a Flashbang!
+/t_flashbang04.vcd	Throwing Flashbang!
+/t_grenade01.vcd	Grenade!
+/t_grenade02.vcd	Grenade!
+/t_grenade05.vcd	Fire in the hole!
+/t_grenade06.vcd	I'm throwing a Grenade.
+/t_molotov01.vcd	Molotov!
+/t_molotov03.vcd	Throwing fire.
+/t_molotov04.vcd	Let's set this place on fire.
+/t_molotov08.vcd	Let's burn it to the ground.
+/t_molotov11.vcd	I'm lighting it up!
+/t_smoke01.vcd	Smoke!
+/t_smoke03.vcd	I'm throwing smoke.
+/t_smoke04.vcd	I'm laying down some smoke.
+/t_smoke05.vcd	Throwing smoke.
+/tmap_cs_italy10.vcd	At their Entry Point.
+/tmap_cs_italy11.vcd	Okay, I'm at their Entry Point.
+/tmap_cs_italy28.vcd	I'm at their Insertion Point.
+/tmap_cs_italy35.vcd	I'm at the Market.
+/tmap_cs_italy36.vcd	At the Market.
+/tmap_cs_italy36.vcd	Market.
+/tmap_cs_italy44.vcd	Stairs.
+/tmap_cs_italy45.vcd	On the Stairs.
+/tmap_cs_italy46.vcd	At the Stairs.
+/tmap_cs_italy50.vcd	Upstairs.
+/tmap_cs_italy51.vcd	I'm Upstairs.
+/tmap_cs_italy52.vcd	Checkin' Upstairs.
+/tmap_cs_office04.vcd	Bathroom.
+/tmap_cs_office05.vcd	In the Bathroom.
+/tmap_cs_office06.vcd	Checkin' the Bathroom.
+/tmap_cs_office10.vcd	At their Entry Point.
+/tmap_cs_office17.vcd	Garage.
+/tmap_cs_office18.vcd	In the Garage.
+/tmap_cs_office19.vcd	Inside the Garage.
+/tmap_cs_office20.vcd	Kitchen.
+/tmap_cs_office21.vcd	In the Kitchen.
+/tmap_cs_office22.vcd	Checkin' in the Kitchen.
+/tmap_cs_office36.vcd	Side Yard.
+/tmap_cs_office37.vcd	In the Side Yard.
+/tmap_cs_office38.vcd	Checkin' in the Side Yard.
+/tmap_de_aztec04.vcd	Bombsite A.
+/tmap_de_aztec05.vcd	At Bombsite A.
+/tmap_de_aztec06.vcd	I'm checking Bombsite A.
+/tmap_de_bank01.vcd	Back Yard.
+/tmap_de_bank02.vcd	Checking the Back Yard.
+/tmap_de_bank03.vcd	In the Back Yard.
+/tmap_de_bank04.vcd	Bank Exterior.
+/tmap_de_bank05.vcd	Outside the Bank.
+/tmap_de_bank06.vcd	By the Bank.
+/tmap_de_bank07.vcd	Checking outside the Bank.
+/tmap_de_bank08.vcd	Bank Interior.
+/tmap_de_bank09.vcd	Inside the Bank.
+/tmap_de_bank10.vcd	Checking the Bank.
+/tmap_de_bank11.vcd	Body Shop.
+/tmap_de_bank12.vcd	The Body Shop.
+/tmap_de_bank15.vcd	In the Body Shop.
+/tmap_de_bank20.vcd	At our Entry Point.
+/tmap_de_bank23.vcd	Gas Station.
+/tmap_de_bank24.vcd	I'm at the Gas Station.
+/tmap_de_bank25.vcd	Checking the Gas Station.
+/tmap_de_bank29.vcd	On the Roof.
+/tmap_de_bank30.vcd	Checking the Roof.
+/tmap_de_bank31.vcd	Street.
+/tmap_de_bank32.vcd	I'm in the Street.
+/tmap_de_bank33.vcd	Checking the Street.
+/tmap_de_bank34.vcd	I'm at the Vault.
+/tmap_de_bank35.vcd	Checking the Vault.
+/tmap_de_bank36.vcd	I'm in the Vault.
+/tmap_de_bank37.vcd	The Vault.
+/tmap_de_bank38.vcd	Roof.
+/tmap_de_boathouse05.vcd	The Bedroom.
+/tmap_de_boathouse06.vcd	In the Bedroom.
+/tmap_de_boathouse07.vcd	Checking the Bedroom.
+/tmap_de_boathouse08.vcd	The Deck.
+/tmap_de_boathouse09.vcd	I'm on the Deck.
+/tmap_de_boathouse10.vcd	Checking the Deck.
+/tmap_de_boathouse17.vcd	Front Yard.
+/tmap_de_boathouse18.vcd	In the Front Yard.
+/tmap_de_boathouse19.vcd	I'm checking the Front Yard.
+/tmap_de_boathouse23.vcd	Porch.
+/tmap_de_boathouse24.vcd	On the Porch.
+/tmap_de_boathouse25.vcd	At the Porch.
+/tmap_de_boathouse26.vcd	The Safe.
+/tmap_de_boathouse27.vcd	I'm at the Safe.
+/tmap_de_boathouse29.vcd	Checking the Safe.
+/tmap_de_house01.vcd	Back Door.
+/tmap_de_house02.vcd	I'm by the Back Door.
+/tmap_de_house03.vcd	At the Back Door.
+/tmap_de_house04.vcd	Foyer.
+/tmap_de_house05.vcd	In the Foyer.
+/tmap_de_house06.vcd	At the Foyer.
+/tmap_de_house07.vcd	Living Room.
+/tmap_de_house08.vcd	In the Living Room.
+/tmap_de_house09.vcd	I'm checking the Living Room.
+/tmap_de_house14.vcd	Safe.
+/tmap_unknown107.vcd	I'm in the Village.
+/tmap_unknown109.vcd	I'm checking the Village.
+/tmap_unknown114wav.vcd	Windows.
+/WaitingHere01.vcd	I'm staying here.
