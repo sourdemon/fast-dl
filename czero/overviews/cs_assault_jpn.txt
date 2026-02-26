@@ -1,0 +1,14 @@
+//overview description file for cs_assault_jpn.bsp
+
+global 
+{
+	ZOOM	1.43
+	ORIGIN	-220	640	544	
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_assault_jpn.bmp"
+	HEIGHT	-97
+}

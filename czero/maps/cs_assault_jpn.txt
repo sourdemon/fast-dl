@@ -1,0 +1,29 @@
+Assault in Japan - Hostage Rescue
+by Luisinho (luisinhocontactservices@gmail.com)
+
+Counter-Terrorists: Breach the
+Black Mesa Cargo Center in this small japanese
+town and rescue the hostages. Use the truck's
+camera monitors to watch the Terrorists'
+position inside the facility.
+
+Terrorists: You have taken four of the most
+important Black Mesa scientists hostages, 
+prevent Counter-Terrorists from rescuing 
+them. Use the camera system to track their
+movements
+
+Other Notes: 
+1. This is a remake of the
+legendary cs_assault by CryptR,
+special thanks to him for creating
+such a masterpiece of a map!
+2. I'm the same Luisinho from the Doom
+community (I'm in Doomworld and Doomer 
+Boards), this is my first Counter-Strike map
+3. This was built from scratch. New textures
+are edited from HL, CS, CS:CZ and CZ:DS
+
+Viva Cristo Rei!
+
+---------------------------
