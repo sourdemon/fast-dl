@@ -1,0 +1,92 @@
+[en]
+BMD_TITLE = BUY MENU   YOU HAVE $%d
+BMD_BODY_START = <body bgcolor=#000000><font face=Tahoma size=2 color=#ffb000>
+BMD_BODY_END = </font></body>
+
+BMD_MAIN_TABLE_START = <table width=600><tr>
+BMD_MAIN_TABLE_END = </tr></table>
+
+BMD_LEFT_START = <td width=300 valign=top>
+BMD_LEFT_END = </td>
+BMD_RIGHT_START = <td width=300 valign=top>
+BMD_RIGHT_END = </td>
+
+BMD_MAIN_LEFT_TITLE = <center><b>BUY BY CATEGORY</b></center><br>
+BMD_MAIN_RIGHT_TITLE = <center><b>QUICK BUY OPTIONS</b></center><br>
+
+BMD_MAIN_PISTOLS = <a href='command://bmd_pistols'><font color=#ffb000><b>1 PISTOLS</b></font></a><br>
+BMD_MAIN_SHOTGUNS = <font color=#ffb000><b>2 SHOTGUNS</b></font><br>
+BMD_MAIN_SMG = <font color=#ffb000><b>3 SMG</b></font><br>
+BMD_MAIN_RIFLES = <font color=#ffb000><b>4 RIFLES</b></font><br>
+BMD_MAIN_MACHINEGUNS = <font color=#ffb000><b>5 MACHINEGUNS</b></font><br>
+BMD_MAIN_PRIMAMMO = <font color=#ffb000><b>6 PRIMARY AMMO</b></font><br>
+BMD_MAIN_SECAMMO = <font color=#ffb000><b>7 SECONDARY AMMO</b></font><br>
+BMD_MAIN_EQUIPMENT = <font color=#ffb000><b>8 EQUIPMENT</b></font><br>
+
+BMD_MAIN_AUTOBUY = <font color=#ffb000><b>A AUTO BUY</b></font><br>
+BMD_MAIN_REBUY = <font color=#ffb000><b>R RE-BUY PREVIOUS</b></font><br>
+BMD_MAIN_PRESET1 = <font color=#ffb000><b>S BUY PRESET 1</b></font><br>
+BMD_MAIN_PRESET2 = <font color=#ffb000><b>D BUY PRESET 2</b></font><br>
+BMD_MAIN_PRESET3 = <font color=#ffb000><b>F BUY PRESET 3</b></font><br>
+BMD_MAIN_PRESET4 = <font color=#ffb000><b>G BUY PRESET 4</b></font><br>
+BMD_MAIN_EDIT = <font color=#ffb000><b>EDIT PACKAGES</b></font><br>
+BMD_MAIN_GAP = <br>
+
+BMD_PISTOLS_TITLE = PISTOLS
+BMD_PISTOLS_HEADER = <center><b>PISTOLS</b></center><br>
+BMD_PISTOLS_GLOCK = <font color=#ffb000><b>1 9x19mm Sidearm</b></font><br>
+BMD_PISTOLS_USP = <font color=#ffb000><b>2 KM .45 Tactical</b></font><br>
+BMD_PISTOLS_P228 = <font color=#ffb000><b>3 228 Compact</b></font><br>
+BMD_PISTOLS_DEAGLE = <font color=#ffb000><b>4 Night Hawk .50C</b></font><br>
+BMD_PISTOLS_ELITES = <font color=#ffb000><b>5 .40 Dual Elites</b></font><br>
+BMD_PISTOLS_FIVESEVEN = <font color=#ffb000><b>6 ES Five-Seven</b></font><br>
+
+BMD_GAP = <br>
+BMD_BACK_MAIN = <a href='command://bmd_main'><font color=#ffb000><b>0 BACK</b></font></a><br>
+
+
+[es]
+BMD_TITLE = MENU DE COMPRA   TIENES $%d
+BMD_BODY_START = <body bgcolor=#000000><font face=Tahoma size=2 color=#ffb000>
+BMD_BODY_END = </font></body>
+
+BMD_MAIN_TABLE_START = <table width=600><tr>
+BMD_MAIN_TABLE_END = </tr></table>
+
+BMD_LEFT_START = <td width=300 valign=top>
+BMD_LEFT_END = </td>
+BMD_RIGHT_START = <td width=300 valign=top>
+BMD_RIGHT_END = </td>
+
+BMD_MAIN_LEFT_TITLE = <center><b>COMPRAR POR CATEGORIA</b></center><br>
+BMD_MAIN_RIGHT_TITLE = <center><b>OPCIONES DE COMPRA RAPIDA</b></center><br>
+
+BMD_MAIN_PISTOLS = <a href='command://bmd_pistols'><font color=#ffb000><b>1 PISTOLAS</b></font></a><br>
+BMD_MAIN_SHOTGUNS = <font color=#ffb000><b>2 ESCOPETAS</b></font><br>
+BMD_MAIN_SMG = <font color=#ffb000><b>3 METRALLETAS</b></font><br>
+BMD_MAIN_RIFLES = <font color=#ffb000><b>4 RIFLES</b></font><br>
+BMD_MAIN_MACHINEGUNS = <font color=#ffb000><b>5 AMETRALLADORAS</b></font><br>
+BMD_MAIN_PRIMAMMO = <font color=#ffb000><b>6 MUNICION PRIMARIA</b></font><br>
+BMD_MAIN_SECAMMO = <font color=#ffb000><b>7 MUNICION SECUNDARIA</b></font><br>
+BMD_MAIN_EQUIPMENT = <font color=#ffb000><b>8 EQUIPAMIENTO</b></font><br>
+
+BMD_MAIN_AUTOBUY = <font color=#ffb000><b>A COMPRA AUTOMATICA</b></font><br>
+BMD_MAIN_REBUY = <font color=#ffb000><b>R VOLVER A COMPRAR ANTERIOR</b></font><br>
+BMD_MAIN_PRESET1 = <font color=#ffb000><b>S COMPRAR PREAJUSTE 1</b></font><br>
+BMD_MAIN_PRESET2 = <font color=#ffb000><b>D COMPRAR PREAJUSTE 2</b></font><br>
+BMD_MAIN_PRESET3 = <font color=#ffb000><b>F COMPRAR PREAJUSTE 3</b></font><br>
+BMD_MAIN_PRESET4 = <font color=#ffb000><b>G COMPRAR PREAJUSTE 4</b></font><br>
+BMD_MAIN_EDIT = <font color=#ffb000><b>EDITAR PAQUETES</b></font><br>
+BMD_MAIN_GAP = <br>
+
+BMD_PISTOLS_TITLE = PISTOLAS
+BMD_PISTOLS_HEADER = <center><b>PISTOLAS</b></center><br>
+BMD_PISTOLS_GLOCK = <font color=#ffb000><b>1 9x19mm Sidearm</b></font><br>
+BMD_PISTOLS_USP = <font color=#ffb000><b>2 KM .45 Tactical</b></font><br>
+BMD_PISTOLS_P228 = <font color=#ffb000><b>3 228 Compact</b></font><br>
+BMD_PISTOLS_DEAGLE = <font color=#ffb000><b>4 Night Hawk .50C</b></font><br>
+BMD_PISTOLS_ELITES = <font color=#ffb000><b>5 .40 Dual Elites</b></font><br>
+BMD_PISTOLS_FIVESEVEN = <font color=#ffb000><b>6 ES Five-Seven</b></font><br>
+
+BMD_GAP = <br>
+BMD_BACK_MAIN = <a href='command://bmd_main'><font color=#ffb000><b>0 VOLVER</b></font></a><br>
